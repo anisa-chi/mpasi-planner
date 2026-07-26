@@ -1,0 +1,29 @@
+{
+	"nama": "Puree Alpukat",
+	"kategori_umur": "6-8bln",
+	"kategori_menu": "Snack",
+	"alergen": [],
+	"porsi": "1 porsi bayi (±60ml)",
+	"gizi": {
+		"kalori": 0,
+		"protein": 0,
+		"karbohidrat": 0,
+		"lemak": 0
+	},
+	"bahan": [
+		"1/2 buah alpukat matang",
+		"1-2 sdm ASI/sufor (opsional untuk mengencerkan tekstur"
+	],
+	"metode_masak": [
+		{
+			"nama": "Tanpa Masak",
+			"langkah": [
+				"Keruk daging alpukat, buang bijinya.",
+				"Haluskan dengan garpu atau blender hingga lembut.",
+				"Tambahkan ASI/sufor sedikit demi sedikit hingga tekstur yang diinginkan.",
+				"Sajikan langsung."
+			]
+		}
+	],
+	"foto": "puree-alpukat.jpg"
+}
