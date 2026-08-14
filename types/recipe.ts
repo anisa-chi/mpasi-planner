@@ -11,10 +11,16 @@ export interface Recipe {
 		karbohidrat: number,
 		lemak: number
 	};
-	bahan: string[];
+	bahan: { nama: string, jumlah: string }[];
 	metode_masak: {
 		nama: string;
 		langkah: string[];
 	}[];
+	foto: string;
+}
+
+export interface MiniRecipe {
+	id: string;
+	nama: string;
 	foto: string;
 }

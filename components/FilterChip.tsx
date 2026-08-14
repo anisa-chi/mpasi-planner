@@ -13,7 +13,7 @@ const FilterChip: React.FC<FilterChipProps> = ({
 }) => {
   return (
     <button
-      className={`px-4 py-1 border-2 border-ink rounded-full cursor-pointer ${
+      className={`px-2 border-2 border-ink wobble-d cursor-pointer ${
         isActive ? 'bg-ink' : 'bg-paper'
       }`}
       onClick={onClick}

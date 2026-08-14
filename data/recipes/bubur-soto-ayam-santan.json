@@ -2,29 +2,25 @@
   "nama": "Bubur Soto Ayam Santan",
   "kategori_umur": "6-8bln",
   "kategori_menu": "Menu Utama",
-  "alergen": ["ayam"],
+  "alergen": [
+    "ayam"
+  ],
   "porsi": "",
-	"gizi": {
-		"kalori": 0,
-		"protein": 0,
-		"karbohidrat": 0,
-		"lemak": 0
-	},
+  "gizi": {
+    "kalori": 0,
+    "protein": 0,
+    "karbohidrat": 0,
+    "lemak": 0
+  },
   "bahan": [
-    "60 gr (6 sdm) Nasi putih",
-    "45 gr (4,5 sdm) Daging ayam cincang",
-    "30 gr (1 buah kecil) Tahu",
-    "30 gr (3 sdm) Labu siam",
-    "15 gr (1,5 sdm) Wortel",
-    "1 lembar Salam",
-    "1 batang Sereh",
-    "1 lembar Daun jeruk",
-    "5 gr (1 sdm) Minyak goreng",
-    "300 ml Air kaldu ayam",
-    "1 siung Bawang merah",
-    "1 siung Bawang putih",
-    "1 cm Kunyit",
-    "1 cm Jahe"
+    {
+      "nama": "Nasi putih",
+      "jumlah": "60 gr"
+    },
+    {
+      "nama": "Daging ayam",
+      "jumlah": "45 gr"
+    }
   ],
   "metode_masak": [
     {

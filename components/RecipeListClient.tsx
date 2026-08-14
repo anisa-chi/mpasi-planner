@@ -4,12 +4,14 @@ import React, { useState } from 'react';
 import RecipeCard from './RecipeCard';
 import SearchBar from './SearchBar';
 import FilterChip from './FilterChip';
+import { Label } from '@/types/label';
 
 interface RecipeListClientProps {
   recipes: Recipe[];
+  labelsByRecipe: Record<string, Label[]>
 }
 
-const RecipeListClient: React.FC<RecipeListClientProps> = ({ recipes }) => {
+const RecipeListClient: React.FC<RecipeListClientProps> = ({ recipes, labelsByRecipe }) => {
   const [query, setQuery] = useState('');
   const [activeFilter, setActiveFilter] = useState<string[]>([]);
 
@@ -59,10 +61,7 @@ const RecipeListClient: React.FC<RecipeListClientProps> = ({ recipes }) => {
           title={recipe.nama}
           age={recipe.kategori_umur}
           cover={recipe.foto}
-          labels={[
-            { text: 'Bilal Tidak Suka', varian: 'tidak suka' },
-            { text: 'Affan Suka', varian: 'suka' },
-          ]}
+          labels={labelsByRecipe[recipe.id] ?? []}
           menu={recipe.kategori_menu}
           wobbleVariant={wobbleVariants[index % wobbleVariants.length]}
         />

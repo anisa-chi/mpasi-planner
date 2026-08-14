@@ -19,7 +19,7 @@ const Header: React.FC<HeaderProps> = ({ leftIcon, onLeftClick }) => {
 
   return (
     <>
-      <div className='w-full p-3 border-b border-b-paper-shadow flex justify-between items-center'>
+      <div className='w-full fixed z-40 p-3 bg-paper border-b border-b-paper-shadow flex justify-between items-center'>
         {leftIcon === 'menu' ? (
           <div className='doodle-icon'>
             <Menu

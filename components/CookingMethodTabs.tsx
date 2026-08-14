@@ -28,7 +28,7 @@ const CookingMethodTabs: React.FC<CookingMethodTabsProps> = ({ methods }) => {
               className={`text-sm px-3 py-1.5 border-2 border-ink wobble-d cursor-pointer ${
                 index === activeIndex
                   ? 'bg-ink text-paper'
-                  : 'bg-white text-ink'
+                  : 'bg-paper text-ink'
               }`}
             >
               {method.nama}

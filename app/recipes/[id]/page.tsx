@@ -1,60 +1,61 @@
 import CookingMethodTabs from '@/components/CookingMethodTabs';
 import Header from '@/components/Header';
 import IngredientsList from '@/components/IngredientsList';
+import NotesSection from '@/components/NotesSection';
 import NutritionCard from '@/components/NutritionCard';
 import RecipeCover from '@/components/RecipeCover';
+import RecipeMeta from '@/components/RecipeMeta';
 import { getRecipeById } from '@/lib/recipes';
-import Image from 'next/image';
+import { supabase } from '@/lib/supabase';
 
 interface RecipeDetailPageProps {
-  params: Promise<{ id: string }>;
+	params: Promise<{ id: string }>;
 }
 
 export default async function RecipeDetailPage({
-  params,
+	params,
 }: RecipeDetailPageProps) {
-  const { id } = await params;
-  const recipe = getRecipeById(id);
-  return (
-    <>
-      <Header leftIcon='back' />
+	const { id } = await params;
+	const recipe = getRecipeById(id);
 
-      <div className='mt-2 p-4'>
-        <RecipeCover cover={recipe.foto} />
+	const { data: notes, error: errorNotes } = await supabase
+		.from('recipe_notes')
+		.select('*')
+		.eq('recipe_id', id)
+		.order('created_at', { ascending: false });
 
-        <h1 className='mt-4 text-xl font-display'>{recipe.nama}</h1>
+	const { data: label, error: errorLabel } = await supabase
+		.from('recipe_labels')
+		.select('*')
+		.eq('recipe_id', id)
+		.order('created_at', { ascending: false });
 
-        <div className='mt-2 flex gap-2'>
-          <span className='border-2 border-ink px-3 py-1 text-sm wobble-b'>
-            {recipe.kategori_menu}
-          </span>
-          <span className='border-2 border-ink px-3 py-1 text-sm wobble-c'>
-            {recipe.kategori_umur}
-          </span>
-          {recipe.alergen.length !== 0 && (
-            <span className='border-2 border-ink px-3 py-1 text-sm wobble-d'>
-              {recipe.alergen}
-            </span>
-          )}
-        </div>
+	return (
+		<>
+			<Header leftIcon='back' />
 
-        {/* Label */}
+			<div className='relative mt-16 p-4'>
+				<RecipeCover cover={recipe.foto} />
 
-        <NutritionCard nutrition={recipe.gizi} />
+				<h1 className='mt-4 text-xl font-display'>{recipe.nama}</h1>
 
-        <IngredientsList ingredients={recipe.bahan} />
+				<RecipeMeta
+					recipeId={recipe.id}
+					recipeName={recipe.nama}
+					jenisMenu={recipe.kategori_menu}
+					kategoriUmur={recipe.kategori_umur}
+					alergen={recipe.alergen}
+					label={label ?? []}
+				/>
 
-        {/* Cara Memasak */}
-        <CookingMethodTabs methods={recipe.metode_masak} />
+				<NutritionCard nutrition={recipe.gizi} />
 
-        {/* Catatan */}
-        <div>
-          <div className='flex items-center gap-2 mt-5 mb-2'>
-            <h2 className='font-display text-base text-ink'>Catatan</h2>
-            <div className='flex-1 border-b-2 border-dashed border-paper-shadow' />
-          </div>
-        </div>
-      </div>
-    </>
-  );
+				<IngredientsList portion={recipe.porsi} ingredients={recipe.bahan} />
+
+				<CookingMethodTabs methods={recipe.metode_masak} />
+
+				<NotesSection recipeId={id} initialNotes={notes ?? []} />
+			</div>
+		</>
+	);
 }
