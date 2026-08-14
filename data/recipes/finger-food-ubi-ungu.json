@@ -1,0 +1,46 @@
+{
+  "nama": "Finger Food Ubi Ungu",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "santan"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 75,
+    "protein": 2,
+    "karbohidrat": 11,
+    "lemak": 3
+  },
+  "bahan": [
+    {
+      "nama": "Ubi ungu",
+      "jumlah": "80 gr"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir kecil"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Kupas ubi ungu dan potong kecil-kecil.",
+        "Kukus ubi sampai benar-benar empuk.",
+        "Masukkan ubi yang sudah empuk, santan, dan telur ke dalam chopper.",
+        "Chopper sampai adonan benar-benar halus dan tercampur rata.",
+        "Pindahkan adonan ke wadah tahan panas.",
+        "Kukus selama 15-20 menit sampai telur matang sempurna dan adonan set.",
+        "Dinginkan sampai hangat sebelum diberikan.",
+        "Potong menjadi bentuk stick yang mudah digenggam bayi."
+      ]
+    }
+  ],
+  "foto": "finger-food-ubi-ungu.jpg"
+}

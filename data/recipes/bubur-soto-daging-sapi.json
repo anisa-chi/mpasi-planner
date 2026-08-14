@@ -1,0 +1,87 @@
+{
+  "nama": "Bubur Soto Daging Sapi",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "sapi"
+  ],
+  "porsi": "4 porsi (±60 ml/porsi)",
+  "gizi": {
+    "kalori": 105,
+    "protein": 7,
+    "karbohidrat": 12,
+    "lemak": 3
+  },
+  "bahan": [
+    {
+      "nama": "Beras putih",
+      "jumlah": "30 gr"
+    },
+    {
+      "nama": "Daging sapi",
+      "jumlah": "80 gr"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "20 gr"
+    },
+    {
+      "nama": "Kaldu sapi/ayam",
+      "jumlah": "±250 ml"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "±100 ml"
+    },
+    {
+      "nama": "Bawang merah",
+      "jumlah": "3 siung kecil"
+    },
+    {
+      "nama": "Bawang putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Kunyit",
+      "jumlah": "±0,5 cm"
+    },
+    {
+      "nama": "Serai",
+      "jumlah": "1/2 batang"
+    },
+    {
+      "nama": "Daun salam",
+      "jumlah": "1 lembar"
+    },
+    {
+      "nama": "EVOO/Fat Oil",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Haluskan bawang merah, bawang putih, dan kunyit.",
+        "Tumis bumbu sampai harum, lalu masukkan daging sapi cincang dan masak sampai berubah warna.",
+        "Masukkan kaldu, air, serai, dan daun salam. Masak sampai daging empuk.",
+        "Masukkan beras dan wortel, lalu masak sampai menjadi bubur lembut.",
+        "Angkat serai dan daun salam.",
+        "Haluskan lalu saring sesuai tekstur yang diinginkan.",
+        "Tambahkan EVOO atau Fat Oil saat penyajian."
+      ]
+    },
+    {
+      "nama": "Slow Cooker",
+      "langkah": [
+        "Tumis bumbu halus dan daging sapi sampai harum dan berubah warna.",
+        "Masukkan semua bahan kecuali EVOO/Fat Oil ke slow cooker.",
+        "Masak dengan setting low selama 2-3 jam atau sampai daging dan beras sangat empuk.",
+        "Angkat serai dan daun salam.",
+        "Haluskan lalu saring.",
+        "Tambahkan EVOO atau Fat Oil saat penyajian."
+      ]
+    }
+  ],
+  "foto": "bubur-soto-daging-sapi.jpg"
+}

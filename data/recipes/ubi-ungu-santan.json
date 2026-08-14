@@ -1,0 +1,61 @@
+{
+  "nama": "Ubi Ungu Santan",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "susu"
+  ],
+  "porsi": "2 porsi (±40-50 ml/porsi)",
+  "gizi": {
+    "kalori": 85,
+    "protein": 1,
+    "karbohidrat": 13,
+    "lemak": 4
+  },
+  "bahan": [
+    {
+      "nama": "Ubi ungu",
+      "jumlah": "80 gr"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Ghee butter",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "±50 ml"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Kupas ubi ungu, potong kecil-kecil, lalu masak dengan air sampai benar-benar empuk.",
+        "Haluskan ubi ungu sampai teksturnya lembut.",
+        "Masukkan santan dan masak dengan api kecil sambil diaduk sampai matang dan tercampur rata.",
+        "Masukkan ghee butter, lalu aduk sampai meleleh dan menyatu.",
+        "Tambahkan sedikit air jika tekstur terlalu kental.",
+        "Dinginkan sampai hangat sebelum diberikan."
+      ]
+    },
+    {
+      "nama": "Slow Cooker",
+      "langkah": [
+        "Kupas ubi ungu dan potong kecil-kecil.",
+        "Masukkan ubi ungu dan ±50 ml air ke dalam slow cooker.",
+        "Masak dengan setting high sampai ubi benar-benar empuk, sekitar 1-2 jam atau sampai mudah dihancurkan.",
+        "Haluskan ubi sampai teksturnya lembut.",
+        "Masukkan santan dan aduk rata.",
+        "Masak kembali dengan setting high selama ±10-15 menit agar santan matang dan tercampur rata.",
+        "Masukkan ghee butter, lalu aduk sampai meleleh dan menyatu.",
+        "Tambahkan sedikit air jika tekstur terlalu kental.",
+        "Dinginkan sampai hangat sebelum diberikan."
+      ]
+    }
+  ],
+  "foto": "ubi-ungu-santan.jpg"
+}
