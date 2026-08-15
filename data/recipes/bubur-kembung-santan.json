@@ -1,0 +1,82 @@
+{
+  "nama": "Bubur Kembung Santan",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "ikan",
+    "santan"
+  ],
+  "porsi": "4 porsi (±60 ml/porsi)",
+  "gizi": {
+    "kalori": 110,
+    "protein": 7,
+    "karbohidrat": 12,
+    "lemak": 4
+  },
+  "bahan": [
+    {
+      "nama": "Beras putih",
+      "jumlah": "30 gr"
+    },
+    {
+      "nama": "Ikan kembung",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "20 gr"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Kaldu ayam",
+      "jumlah": "±250 ml"
+    },
+    {
+      "nama": "Bawang merah",
+      "jumlah": "2 siung kecil"
+    },
+    {
+      "nama": "Bawang putih",
+      "jumlah": "1 siung kecil"
+    },
+    {
+      "nama": "Daun salam",
+      "jumlah": "1 lembar"
+    },
+    {
+      "nama": "EVOO/Fat Oil",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Bersihkan ikan kembung, kukus atau rebus sampai matang, lalu pisahkan daging dari tulangnya dengan sangat teliti.",
+        "Haluskan bawang merah dan bawang putih, lalu tumis sampai harum.",
+        "Masukkan beras, wortel, kaldu, dan daun salam. Masak sampai beras menjadi bubur.",
+        "Masukkan daging ikan kembung dan santan menjelang akhir masak.",
+        "Masak sampai santan matang dan semua bahan lembut.",
+        "Angkat daun salam.",
+        "Haluskan lalu saring.",
+        "Tambahkan EVOO atau Fat Oil saat penyajian."
+      ]
+    },
+    {
+      "nama": "Slow Cooker",
+      "langkah": [
+        "Masak ikan kembung terlebih dahulu, pisahkan seluruh daging dari tulangnya.",
+        "Tumis bawang merah dan bawang putih sampai harum.",
+        "Masukkan beras, wortel, kaldu, ikan, dan daun salam ke slow cooker.",
+        "Masak dengan setting low sampai beras lunak.",
+        "Tambahkan santan menjelang akhir masak dan lanjutkan sekitar 10-15 menit.",
+        "Angkat daun salam, lalu haluskan dan saring.",
+        "Tambahkan EVOO atau Fat Oil saat penyajian."
+      ]
+    }
+  ],
+  "foto": "bubur-kembung-santan.jpg"
+}

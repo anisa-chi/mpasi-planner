@@ -1,0 +1,42 @@
+{
+  "nama": "Jagung Santan",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "santan"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 70,
+    "protein": 2,
+    "karbohidrat": 10,
+    "lemak": 3
+  },
+  "bahan": [
+    {
+      "nama": "Jagung manis pipil",
+      "jumlah": "80 gr"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "±40 ml"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Masak jagung dengan air sampai benar-benar empuk.",
+        "Haluskan jagung dan saring.",
+        "Masukkan santan dan masak dengan api kecil sampai matang.",
+        "Atur tekstur dengan sedikit air bila diperlukan.",
+        "Dinginkan sampai hangat sebelum diberikan."
+      ]
+    }
+  ],
+  "foto": "jagung-santan.jpg"
+}

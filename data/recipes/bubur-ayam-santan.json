@@ -1,0 +1,80 @@
+{
+  "nama": "Bubur Ayam Santan",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "ayam",
+    "santan"
+  ],
+  "porsi": "4 porsi (±60 ml/porsi)",
+  "gizi": {
+    "kalori": 105,
+    "protein": 7,
+    "karbohidrat": 12,
+    "lemak": 3
+  },
+  "bahan": [
+    {
+      "nama": "Beras putih",
+      "jumlah": "30 gr"
+    },
+    {
+      "nama": "Daging ayam",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "20 gr"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Kaldu ayam",
+      "jumlah": "±250 ml"
+    },
+    {
+      "nama": "Bawang merah",
+      "jumlah": "2 siung kecil"
+    },
+    {
+      "nama": "Bawang putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Daun salam",
+      "jumlah": "1 lembar"
+    },
+    {
+      "nama": "EVOO/Fat Oil",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Haluskan bawang merah dan bawang putih.",
+        "Tumis sampai harum, lalu masukkan ayam cincang dan masak sampai berubah warna.",
+        "Masukkan kaldu, beras, wortel, dan daun salam.",
+        "Masak sampai beras dan ayam sangat empuk.",
+        "Tambahkan santan menjelang akhir masak.",
+        "Angkat daun salam, lalu haluskan dan saring.",
+        "Tambahkan EVOO atau Fat Oil saat penyajian."
+      ]
+    },
+    {
+      "nama": "Slow Cooker",
+      "langkah": [
+        "Tumis bawang dan ayam sampai harum.",
+        "Masukkan semua bahan kecuali santan dan EVOO/Fat Oil.",
+        "Masak dengan setting low selama 2-3 jam sampai sangat empuk.",
+        "Tambahkan santan sekitar 10-15 menit sebelum selesai.",
+        "Angkat daun salam, lalu haluskan dan saring.",
+        "Tambahkan EVOO atau Fat Oil saat penyajian."
+      ]
+    }
+  ],
+  "foto": "bubur-ayam-santan.jpg"
+}

@@ -52,7 +52,7 @@ const RecipePickerModal: React.FC<RecipePickerModalProps> = ({
 				animate={{ y: 0 }}
 				exit={{ y: '100%' }}
 				transition={{ type: 'spring', damping: 30, stiffness: 300 }}
-				className='fixed bottom-0 top-1/4 left-0 right-0 z-50 p-3 border-2 border-ink rounded-t-xl bg-paper'
+				className='fixed bottom-0 top-1/4 left-0 right-0 z-50 p-3 border-2 border-ink rounded-t-xl bg-paper scroll-auto'
 			>
 				<div className='flex justify-around items-center'>
 					<p className='text-lg mb-2'>
@@ -78,7 +78,7 @@ const RecipePickerModal: React.FC<RecipePickerModalProps> = ({
 					))}
 				</div>
 
-				<div>
+				<div className='flex flex-col gap-2'>
 					{filteredRecipes.map((recipe) => (
 						<button
 							key={recipe.id}

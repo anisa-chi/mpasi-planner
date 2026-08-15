@@ -1,0 +1,41 @@
+{
+  "nama": "Pisang Santan",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "santan"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 65,
+    "protein": 1,
+    "karbohidrat": 10,
+    "lemak": 3
+  },
+  "bahan": [
+    {
+      "nama": "Pisang matang",
+      "jumlah": "70 gr"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "10-20 ml"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Haluskan pisang matang.",
+        "Campurkan dengan santan dan sedikit air.",
+        "Masak dengan api kecil sambil diaduk sampai santan matang.",
+        "Dinginkan sampai hangat sebelum diberikan."
+      ]
+    }
+  ],
+  "foto": "pisang-santan.jpg"
+}

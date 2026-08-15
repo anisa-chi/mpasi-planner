@@ -1,0 +1,75 @@
+{
+  "nama": "Bubur Kembung Jagung",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "ikan"
+  ],
+  "porsi": "4 porsi (±60 ml/porsi)",
+  "gizi": {
+    "kalori": 105,
+    "protein": 7,
+    "karbohidrat": 12,
+    "lemak": 3
+  },
+  "bahan": [
+    {
+      "nama": "Jagung manis pipil",
+      "jumlah": "240 gr"
+    },
+    {
+      "nama": "Ikan kembung",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "20 gr"
+    },
+    {
+      "nama": "Kaldu ayam",
+      "jumlah": "±150 ml"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "±150 ml"
+    },
+    {
+      "nama": "Bawang merah",
+      "jumlah": "2 siung kecil"
+    },
+    {
+      "nama": "Bawang putih",
+      "jumlah": "1 siung kecil"
+    },
+    {
+      "nama": "EVOO/Fat Oil",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Masak jagung dan wortel dengan kaldu serta air sampai benar-benar lunak.",
+        "Masak ikan kembung secara terpisah sampai matang, lalu pisahkan seluruh daging dari tulang.",
+        "Tumis bawang merah dan bawang putih sampai harum.",
+        "Masukkan ikan ke jagung yang sudah lunak.",
+        "Masak beberapa menit sampai semua bahan menyatu.",
+        "Haluskan lalu saring.",
+        "Tambahkan EVOO atau Fat Oil saat penyajian."
+      ]
+    },
+    {
+      "nama": "Slow Cooker",
+      "langkah": [
+        "Masak ikan kembung terlebih dahulu dan pisahkan seluruh daging dari tulang.",
+        "Tumis bawang sampai harum.",
+        "Masukkan jagung, wortel, ikan, kaldu, dan air ke slow cooker.",
+        "Masak dengan setting high atau low sampai jagung dan wortel benar-benar lunak.",
+        "Haluskan lalu saring.",
+        "Tambahkan EVOO atau Fat Oil saat penyajian."
+      ]
+    }
+  ],
+  "foto": "bubur-kembung-jagung.jpg"
+}

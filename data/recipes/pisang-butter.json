@@ -1,0 +1,37 @@
+{
+  "nama": "Pisang Butter",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 70,
+    "protein": 1,
+    "karbohidrat": 10,
+    "lemak": 3
+  },
+  "bahan": [
+    {
+      "nama": "Pisang matang",
+      "jumlah": "70 gr"
+    },
+    {
+      "nama": "Ghee butter",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Haluskan pisang matang.",
+        "Masukkan ghee butter dan aduk sampai tercampur rata.",
+        "Jika terlalu kental, tambahkan sedikit air matang.",
+        "Sajikan dalam kondisi hangat atau suhu ruang."
+      ]
+    }
+  ],
+  "foto": "pisang-butter.jpg"
+}
