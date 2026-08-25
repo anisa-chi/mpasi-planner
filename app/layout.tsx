@@ -14,7 +14,8 @@ const gaegu = Gaegu({
 
 export const metadata: Metadata = {
   title: "MPASI Affan & Bilal",
-  description: "Kumpulan resep MPASI dan jadwal menu MPASI Affan & Bilal.",
+  description: "Kumpulan resep MPASI dan jadwal menu MPASI Affan dan Bilal.",
+  manifest: "/manifest.json"
 };
 
 export default function RootLayout({

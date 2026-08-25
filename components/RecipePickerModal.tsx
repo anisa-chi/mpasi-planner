@@ -52,9 +52,9 @@ const RecipePickerModal: React.FC<RecipePickerModalProps> = ({
 				animate={{ y: 0 }}
 				exit={{ y: '100%' }}
 				transition={{ type: 'spring', damping: 30, stiffness: 300 }}
-				className='fixed bottom-0 top-1/4 left-0 right-0 z-50 p-3 border-2 border-ink rounded-t-xl bg-paper scroll-auto'
+				className='fixed bottom-0 top-1/4 left-0 right-0 z-50 p-3 border-2 border-ink rounded-t-xl bg-paper overflow-y-auto min-h-0'
 			>
-				<div className='flex justify-around items-center'>
+				<div className='p-3 bg-paper rounded-t-xl border-t-2 border-x-2 border-ink flex justify-around items-center fixed top-1/4 left-0 right-0 z-50'>
 					<p className='text-lg mb-2'>
 						Pilih Resep - <span>{dayName}</span>
 					</p>
@@ -63,7 +63,7 @@ const RecipePickerModal: React.FC<RecipePickerModalProps> = ({
 					</button>
 				</div>
 
-				<div className='mb-2'>
+				<div className='mt-12 mb-2'>
 					<SearchBar value={query} onChange={setQuery} />
 				</div>
 
