@@ -1,0 +1,93 @@
+{
+  "nama": "Nugget Tempe Ayam Sayuran",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Gluten/Gandum",
+    "Telur",
+    "Susu/Keju",
+    "Kedelai"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 191,
+    "protein": 10.5,
+    "karbohidrat": 17.0,
+    "lemak": 9.0
+  },
+  "bahan": [
+    {
+      "nama": "Tempe, dipotong kotak kecil, kukus",
+      "jumlah": "200 gr"
+    },
+    {
+      "nama": "Daging ayam cincang, haluskan",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Telur ayam, kocok",
+      "jumlah": "100 gr (2 butir)"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "50 gr (5 sdm)"
+    },
+    {
+      "nama": "Keju parut",
+      "jumlah": "50 gr (5 sdm)"
+    },
+    {
+      "nama": "Bawang daun, iris halus",
+      "jumlah": "10 gr (1 batang)"
+    },
+    {
+      "nama": "Bawang goreng halus",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Bawang putih halus",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Tepung terigu",
+      "jumlah": "20 gr (2 sdm)"
+    },
+    {
+      "nama": "Tepung tapioka",
+      "jumlah": "20 gr (2 sdm)"
+    },
+    {
+      "nama": "Tepung terigu (bahan pelapis)",
+      "jumlah": "30 gr (3 sdm)"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "100 ml atau secukupnya"
+    },
+    {
+      "nama": "Tepung panir",
+      "jumlah": "100 gr (10 sdm)"
+    },
+    {
+      "nama": "Minyak untuk menggoreng",
+      "jumlah": "secukupnya"
+    },
+    {
+      "nama": "Semangka",
+      "jumlah": "270 gr"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor",
+      "langkah": [
+        "Campurkan tempe, daging ayam cincang, wortel, keju, bawang daun, tepung terigu, tapioka, telur, bawang goreng, dan bawang putih halus. Aduk sampai tercampur rata.",
+        "Ambil loyang olesi minyak dulu kemudian masukkan adonan nugget dan ratakan. Kukus selama 30 menit atau sampai matang. Setelah dingin potong adonan sesuai ukuran yang diinginkan.",
+        "Cairkan terigu dengan air sampai menjadi larutan yang cukup kekentalannya.",
+        "Celupkan nugget ke tepung terigu basah, gulirkan pada tepung panir.",
+        "Sebaiknya disimpan dulu di kulkas selama 30 menit atau bisa langsung digoreng di minyak yang panas. Sajikan selagi hangat."
+      ]
+    }
+  ],
+  "foto": "nugget-tempe-ayam-sayuran.jpg"
+}

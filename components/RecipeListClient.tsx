@@ -15,7 +15,7 @@ const RecipeListClient: React.FC<RecipeListClientProps> = ({ recipes, labelsByRe
   const [query, setQuery] = useState('');
   const [activeFilter, setActiveFilter] = useState<string[]>([]);
 
-  const filterOptions = ['6-8bln', '9-11bln', 'Menu Utama', 'Snack'];
+  const filterOptions = ['6-8bln', '9-11bln', '12-23bln', '2-5thn', 'Menu Utama', 'Snack'];
 
   const toggleFilter = (filter: string) => {
     if (activeFilter.includes(filter)) {

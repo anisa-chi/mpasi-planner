@@ -1,0 +1,62 @@
+{
+  "nama": "Nasi Tim Ikan Telur Sayuran",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Ikan",
+    "Telur"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 117,
+    "protein": 4.8,
+    "karbohidrat": 14.3,
+    "lemak": 4.5
+  },
+  "bahan": [
+    {
+      "nama": "Nasi putih",
+      "jumlah": "100 gr (10 sdm)"
+    },
+    {
+      "nama": "Telur puyuh, kocok",
+      "jumlah": "30 gr (3 butir)"
+    },
+    {
+      "nama": "Ikan kembung fillet",
+      "jumlah": "30 gr (3 sdm)"
+    },
+    {
+      "nama": "Sawi hijau, iris",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Tomat, cincang",
+      "jumlah": "20 gr (2 sdm)"
+    },
+    {
+      "nama": "Kaldu ayam",
+      "jumlah": "300 ml"
+    },
+    {
+      "nama": "Minyak kelapa",
+      "jumlah": "7.5 ml (1.5 sdt)"
+    },
+    {
+      "nama": "Semangka",
+      "jumlah": "180 gr"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Masak kaldu, nasi, minyak kelapa, dan ikan kembung hingga lunak dan menjadi bubur.",
+        "Masukkan sawi hijau dan tomat.",
+        "Masukkan telur puyuh yang sudah dikocok, aduk perlahan hingga rata dan matang.",
+        "Angkat dan sajikan."
+      ]
+    }
+  ],
+  "foto": "nasi-tim-ikan-telur-sayuran.jpg"
+}

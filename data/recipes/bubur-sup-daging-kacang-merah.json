@@ -1,0 +1,83 @@
+{
+  "nama": "Bubur Sup Daging Kacang Merah",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Telur"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 98,
+    "protein": 5.1,
+    "karbohidrat": 11.3,
+    "lemak": 3.6
+  },
+  "bahan": [
+    {
+      "nama": "Nasi",
+      "jumlah": "50 gr (6 sdm)"
+    },
+    {
+      "nama": "Daging ayam cincang",
+      "jumlah": "30 gr (3 sdm)"
+    },
+    {
+      "nama": "Telur ayam",
+      "jumlah": "25 gr (1/2 butir)"
+    },
+    {
+      "nama": "Buncis",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Kacang merah",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Bawang daun",
+      "jumlah": "10 gr (1 batang)"
+    },
+    {
+      "nama": "Seledri",
+      "jumlah": "1 batang"
+    },
+    {
+      "nama": "Kaldu ayam",
+      "jumlah": "300 ml"
+    },
+    {
+      "nama": "Minyak untuk menumis",
+      "jumlah": "2.5 gr (1/2 sdt)"
+    },
+    {
+      "nama": "Bawang merah",
+      "jumlah": "2 siung"
+    },
+    {
+      "nama": "Bawang putih",
+      "jumlah": "2 siung"
+    },
+    {
+      "nama": "Jeruk (diambil sarinya)",
+      "jumlah": "100 g (2 buah)"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Didihkan air kaldu ayam, masukkan kacang merah dan masak sampai empuk.",
+        "Tumis bumbu halus sampai harum, masukkan daging ayam cincang, masak sampai berubah warna.",
+        "Masukan tumisan daging ayam kedalam air kaldu masak sampai daging empuk.",
+        "Masukkan nasi, buncis, dan wortel.",
+        "Tambahkan kocokan telur, aduk merata dan masak sampai matang.",
+        "Haluskan bubur sampai tekstur yang diinginkan, lalu sajikan."
+      ]
+    }
+  ],
+  "foto": "bubur-sup-daging-kacang-merah.jpg"
+}

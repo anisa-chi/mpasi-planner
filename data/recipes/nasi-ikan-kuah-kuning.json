@@ -1,0 +1,106 @@
+{
+  "nama": "Nasi Ikan Kuah Kuning",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Ikan",
+    "Kedelai",
+    "Kemiri"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 267,
+    "protein": 28.5,
+    "karbohidrat": 14.1,
+    "lemak": 10.7
+  },
+  "bahan": [
+    {
+      "nama": "Nasi",
+      "jumlah": "150 gr (15 sdm)"
+    },
+    {
+      "nama": "Ikan kembung",
+      "jumlah": "360 gr (3 ekor)"
+    },
+    {
+      "nama": "Labu siam",
+      "jumlah": "75 gr (7.5 sdm)"
+    },
+    {
+      "nama": "Tempe",
+      "jumlah": "75 gr (7.5 sdm)"
+    },
+    {
+      "nama": "Tomat besar",
+      "jumlah": "60 gr (1 buah besar)"
+    },
+    {
+      "nama": "Minyak goreng",
+      "jumlah": "15 ml (1.5 sdm)"
+    },
+    {
+      "nama": "Daun salam",
+      "jumlah": "2 lembar"
+    },
+    {
+      "nama": "Sereh, digeprek",
+      "jumlah": "1 batang"
+    },
+    {
+      "nama": "Laos, digeprek",
+      "jumlah": "2 cm"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "35 ml (3.5 sdm)"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "750 ml"
+    },
+    {
+      "nama": "Jeruk nipis",
+      "jumlah": "2 buah"
+    },
+    {
+      "nama": "Bawang merah",
+      "jumlah": "5 siung"
+    },
+    {
+      "nama": "Bawang putih",
+      "jumlah": "3 siung"
+    },
+    {
+      "nama": "Kemiri",
+      "jumlah": "3 buah"
+    },
+    {
+      "nama": "Jahe",
+      "jumlah": "2 cm"
+    },
+    {
+      "nama": "Kunyit",
+      "jumlah": "2 cm"
+    },
+    {
+      "nama": "Semangka",
+      "jumlah": "270 gr"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor",
+      "langkah": [
+        "Bersihkan ikan, lumuri dengan garam dan jeruk nipis atau cuka biarkan 10 menit kemudian bilas dengan air sampai bersih.",
+        "Lumuri kembali ikan kembung dengan garam dan jeruk nipis biarkan 5 menit.",
+        "Panaskan minyak, goreng ikan kembung sampai matang, sisihkan.",
+        "Tumis bumbu halus tambahkan sereh, salam dan laos tunggu sampai air mendidih.",
+        "Masukkan potongan labu siam dan tempe masak sampai matang.",
+        "Tambahkan santan dan masukkan ikan goreng.",
+        "Tambahkan garam dan gula secukupnya, masukkan tomat dan koreksi rasa. Sajikan dengan nasi hangat."
+      ]
+    }
+  ],
+  "foto": "nasi-ikan-kuah-kuning.jpg"
+}

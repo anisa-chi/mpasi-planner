@@ -1,0 +1,74 @@
+{
+  "nama": "Bubur Singkong Isi Ikan dan Ayam dengan Saus Jeruk",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Ikan"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 91,
+    "protein": 3.1,
+    "karbohidrat": 11.8,
+    "lemak": 3.5
+  },
+  "bahan": [
+    {
+      "nama": "Singkong putih, rebus dan haluskan",
+      "jumlah": "75 gr"
+    },
+    {
+      "nama": "Daging ikan kembung cincang halus",
+      "jumlah": "15 gr (2 sdm datar)"
+    },
+    {
+      "nama": "Daging ayam cincang rebus",
+      "jumlah": "15 gr"
+    },
+    {
+      "nama": "Air kaldu ayam",
+      "jumlah": "250 ml"
+    },
+    {
+      "nama": "Minyak kelapa",
+      "jumlah": "5 gr (1 sdt)"
+    },
+    {
+      "nama": "Bayam segar, potong halus",
+      "jumlah": "20 gr (2 sdm)"
+    },
+    {
+      "nama": "Daun salam",
+      "jumlah": "1 lembar"
+    },
+    {
+      "nama": "Sereh",
+      "jumlah": "1 batang"
+    },
+    {
+      "nama": "Bawang merah",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Bawang putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Jeruk manis (diambil sarinya)",
+      "jumlah": "100 gr (3 buah kecil)"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Tumis bumbu halus, lalu masukkan daun salam dan sereh.",
+        "Tambahkan air kaldu, masukkan singkong putih, daging ikan, daging ayam cincang rebus, aduk-aduk hingga setengah matang.",
+        "Masukkan daun bayam, aduk hingga matang. Jika airnya mengental dapat ditambahkan air matang.",
+        "Angkat, lalu saring halus atau diblender.",
+        "Sebelum disajikan tambahkan saus jeruk."
+      ]
+    }
+  ],
+  "foto": "bubur-singkok-isi-ikan-dan-ayam-dengan-saus-jeruk.jpg"
+}

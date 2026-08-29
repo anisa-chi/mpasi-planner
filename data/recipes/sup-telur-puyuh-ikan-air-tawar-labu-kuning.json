@@ -1,0 +1,82 @@
+{
+  "nama": "Sup Telur Puyuh Ikan Air Tawar Labu Kuning",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Ikan",
+    "Telur"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 261,
+    "protein": 13.6,
+    "karbohidrat": 31.1,
+    "lemak": 9.1
+  },
+  "bahan": [
+    {
+      "nama": "Nasi putih",
+      "jumlah": "150 gr (15 sdm)"
+    },
+    {
+      "nama": "Kentang, potong dadu",
+      "jumlah": "70 gr (7 sdm)"
+    },
+    {
+      "nama": "Labu kuning, potong dadu",
+      "jumlah": "50 gr (5 sdm)"
+    },
+    {
+      "nama": "Ikan nila kukus, disuwir",
+      "jumlah": "120 gr (12 sdm)"
+    },
+    {
+      "nama": "Telur puyuh, rebus",
+      "jumlah": "60 gr (6 butir)"
+    },
+    {
+      "nama": "Kacang merah",
+      "jumlah": "15 gr (3 sdt)"
+    },
+    {
+      "nama": "Tomat, potong dadu",
+      "jumlah": "45 gr (4.5 sdm)"
+    },
+    {
+      "nama": "Bawang daun",
+      "jumlah": "10 gr (1 batang)"
+    },
+    {
+      "nama": "Bawang merah goreng",
+      "jumlah": "5 gr (1 sdt)"
+    },
+    {
+      "nama": "Bawang putih goreng",
+      "jumlah": "5 gr (1 sdt)"
+    },
+    {
+      "nama": "Kaldu ayam",
+      "jumlah": "150 ml"
+    },
+    {
+      "nama": "Garam, gula, merica",
+      "jumlah": "secukupnya"
+    },
+    {
+      "nama": "Pepaya",
+      "jumlah": "150 gr (6 potong)"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor",
+      "langkah": [
+        "Rebus kaldu ayam hingga mendidih, masukkan kentang, kacang merah, dan labu kuning hingga setengah matang.",
+        "Masukkan suwiran ikan nila kukus, bawang merah goreng dan bawang putih goreng, masak hingga matang.",
+        "Tambahkan tomat, bawang daun, bawang goreng, dan telur puyuh, aduk perlahan.",
+        "Tambahkan garam, gula dan merica secukupnya dan aduk rata. Angkat dan sajikan dengan buah."
+      ]
+    }
+  ],
+  "foto": "sup-telur-puyuh-ikan-air-tawar-labu-kuning.jpg"
+}

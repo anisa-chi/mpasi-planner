@@ -1,0 +1,119 @@
+{
+  "nama": "Nasi Bakar Ayam Santan",
+  "kategori_umur": "2-5thn",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Udang / Seafood",
+    "Kedelai",
+    "Kemiri"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 421,
+    "protein": 18.2,
+    "karbohidrat": 46.1,
+    "lemak": 18.2
+  },
+  "bahan": [
+    {
+      "nama": "Beras putih",
+      "jumlah": "150 gr (15 sdm)"
+    },
+    {
+      "nama": "Bawang putih goreng",
+      "jumlah": "5 gr (1 sdt)"
+    },
+    {
+      "nama": "Bawang merah goreng",
+      "jumlah": "5 gr (1 sdt)"
+    },
+    {
+      "nama": "Margarin",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Filet dada ayam, potong kotak",
+      "jumlah": "120 gr (12 sdm)"
+    },
+    {
+      "nama": "Tahu, potong kotak",
+      "jumlah": "60 gr (3 potong)"
+    },
+    {
+      "nama": "Udang",
+      "jumlah": "60 gr (6 ekor)"
+    },
+    {
+      "nama": "Daun bayam",
+      "jumlah": "30 gr (3 sdm)"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "30 gr (3 sdm)"
+    },
+    {
+      "nama": "Santan kental",
+      "jumlah": "50 ml (5 sdm)"
+    },
+    {
+      "nama": "Minyak goreng",
+      "jumlah": "20 gr (2 sdm)"
+    },
+    {
+      "nama": "Bawang merah",
+      "jumlah": "6 siung"
+    },
+    {
+      "nama": "Bawang putih",
+      "jumlah": "4 siung"
+    },
+    {
+      "nama": "Ketumbar",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Kemiri",
+      "jumlah": "4 buah"
+    },
+    {
+      "nama": "Jinten",
+      "jumlah": "0.5 sdt"
+    },
+    {
+      "nama": "Daun jeruk, salam, sereh, pandan, jahe",
+      "jumlah": "secukupnya"
+    },
+    {
+      "nama": "Buah pepaya",
+      "jumlah": "300 gr"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Membuat Nasi Gurih",
+      "langkah": [
+        "Cuci bersih beras putih.",
+        "Masukkan beras, bawang putih goreng, bawang merah goreng, daun salam, sereh, daun jeruk, pandan, margarin dan garam secukupnya.",
+        "Tambahkan air secukupnya, aduk merata, masak hingga matang."
+      ]
+    },
+    {
+      "nama": "Membuat Isian Ayam Santan",
+      "langkah": [
+        "Panaskan minyak goreng, tumis bumbu hingga harum, masukkan salam, daun jeruk, sereh dan jahe.",
+        "Masukkan ayam, udang masak hingga ayam setengah matang.",
+        "Tambahkan santan dan air secukupnya masak hingga mendidih.",
+        "Masukkan tahu, wortel dan bayam sampai santan menyusut. Sisihkan untuk isi nasi bakar."
+      ]
+    },
+    {
+      "nama": "Membuat Nasi Bakar",
+      "langkah": [
+        "Siapkan daun pisang, tata nasi gurih, masukkan ayam masak santan.",
+        "Bungkus dengan rapi kemudian kukus selama 10 menit.",
+        "Untuk mendapatkan cita rasa bakar, sebelum dikonsumsi bisa dipanggang selama 10 menit. Angkat sajikan selagi hangat."
+      ]
+    }
+  ],
+  "foto": "nasi-bakar-ayam-santan.jpg"
+}

@@ -1,0 +1,87 @@
+{
+  "nama": "Puding Kentang Ayam dan Telur",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Telur",
+    "Kedelai"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 95,
+    "protein": 4.0,
+    "karbohidrat": 11.6,
+    "lemak": 3.6
+  },
+  "bahan": [
+    {
+      "nama": "Kentang, dikukus dan dihaluskan",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Daging ayam cincang",
+      "jumlah": "30 gr (3 sdm)"
+    },
+    {
+      "nama": "Telur puyuh",
+      "jumlah": "10 gr (1 butir)"
+    },
+    {
+      "nama": "Tahu kecil, dipotong dadu kecil",
+      "jumlah": "15 gr (1 buah)"
+    },
+    {
+      "nama": "Wortel parut",
+      "jumlah": "15 gr (1.5 sdm)"
+    },
+    {
+      "nama": "Labu kuning",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "15 ml"
+    },
+    {
+      "nama": "Sereh",
+      "jumlah": "1 batang"
+    },
+    {
+      "nama": "Daun salam",
+      "jumlah": "1 lembar"
+    },
+    {
+      "nama": "Minyak",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Air kaldu ayam",
+      "jumlah": "50 ml"
+    },
+    {
+      "nama": "Bawang merah",
+      "jumlah": "2 siung"
+    },
+    {
+      "nama": "Bawang putih",
+      "jumlah": "2 siung"
+    },
+    {
+      "nama": "Jeruk (diambil sarinya)",
+      "jumlah": "100 gr (2 buah)"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Tumis bumbu halus sampai harum tambahkan daun salam dan sereh.",
+        "Masukkan ayam cincang masak sampai berubah warna, lalu masukan kentang, labu kuning, tahu dan wortel aduk sampai merata.",
+        "Tambahkan santan dan air kaldu aduk merata dan matikan.",
+        "Kocok telur lepas, campurkan pada tumisan tadi.",
+        "Siapkan wadah tahan panas dan olesi minyak, masukkan adonan dan kukus kurang lebih 20 menit. Sajikan selagi hangat."
+      ]
+    }
+  ],
+  "foto": "puding-kentang-ayam-telur.jpg"
+}

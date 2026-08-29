@@ -1,0 +1,86 @@
+{
+  "nama": "Nasi Sup Telur Puyuh Bola Tahu Ayam",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Telur",
+    "Kedelai"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 260,
+    "protein": 10.4,
+    "karbohidrat": 30.5,
+    "lemak": 10.7
+  },
+  "bahan": [
+    {
+      "nama": "Nasi putih",
+      "jumlah": "150 gr (15 sdm)"
+    },
+    {
+      "nama": "Tahu putih",
+      "jumlah": "45 gr (1 potong kecil)"
+    },
+    {
+      "nama": "Daging ayam cincang",
+      "jumlah": "60 gr (± 5 sdm)"
+    },
+    {
+      "nama": "Telur puyuh rebus",
+      "jumlah": "60 gr (6 butir)"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "30 gr (3 sdm)"
+    },
+    {
+      "nama": "Jagung pipil kuning",
+      "jumlah": "30 gr (3 sdm)"
+    },
+    {
+      "nama": "Brokoli",
+      "jumlah": "30 gr (3 sdm)"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "secukupnya"
+    },
+    {
+      "nama": "Seledri, diiris",
+      "jumlah": "10 gr (1 batang)"
+    },
+    {
+      "nama": "Daun bawang, diiris",
+      "jumlah": "10 gr (1 batang)"
+    },
+    {
+      "nama": "Tepung tapioka",
+      "jumlah": "15 gr (± 1.5 sdm)"
+    },
+    {
+      "nama": "Garam, gula, merica",
+      "jumlah": "secukupnya"
+    },
+    {
+      "nama": "Bawang goreng",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Melon",
+      "jumlah": "135 gr (3 potong)"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Rebus air sampai mendidih. Sambil menunggu air, campurkan tahu, daging ayam cincang, bumbu halus, garam, gula, dan merica, selanjutnya haluskan serta tambahkan tapioka kemudian uleni hingga tercampur rata dan bisa dibentuk.",
+        "Ambil adonan sebanyak satu sendok teh kemudian bentuk bulat dan langsung dimasukkan pada air mendidih.",
+        "Lakukan sampai adonan habis. Setelah semua bola-bola tahu ayam mengapung, masukan wortel dan jagung terlebih dulu tunggu sejenak kemudian brokoli dan telur puyuh rebus.",
+        "Masukan garam, gula dan merica serta irisan bawang daun dan seledri. Setelah sayuran matang koreksi rasa. Sajikan dengan nasi dan taburan bawang goreng."
+      ]
+    }
+  ],
+  "foto": "nasi-sup-telur-puyuh-bola-tahu-ayam.jpg"
+}

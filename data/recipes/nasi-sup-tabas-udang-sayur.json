@@ -1,0 +1,96 @@
+{
+  "nama": "Nasi Sup Tabas Udang Sayur",
+  "kategori_umur": "2-5thn",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Ikan",
+    "Udang / Seafood",
+    "Telur",
+    "Kedelai",
+    "Wijen"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 537,
+    "protein": 23.4,
+    "karbohidrat": 68.1,
+    "lemak": 18.9
+  },
+  "bahan": [
+    {
+      "nama": "Nasi putih",
+      "jumlah": "300 gr (3 centong)"
+    },
+    {
+      "nama": "Ikan tenggiri cincang",
+      "jumlah": "150 gr (15 sdm)"
+    },
+    {
+      "nama": "Putih telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Tepung tapioka",
+      "jumlah": "20 gr (2 sdm)"
+    },
+    {
+      "nama": "Tahu",
+      "jumlah": "90 gr (9 sdm)"
+    },
+    {
+      "nama": "Udang rebus",
+      "jumlah": "90 gr (9 sdm)"
+    },
+    {
+      "nama": "Air kaldu udang",
+      "jumlah": "500 ml"
+    },
+    {
+      "nama": "Pokcoy",
+      "jumlah": "60 gr (6 sdm)"
+    },
+    {
+      "nama": "Soun, direndam",
+      "jumlah": "60 gr (6 sdm)"
+    },
+    {
+      "nama": "Wortel, potong bulat",
+      "jumlah": "60 gr (6 sdm)"
+    },
+    {
+      "nama": "Saos tiram",
+      "jumlah": "10 gr (2 sdt)"
+    },
+    {
+      "nama": "Minyak wijen",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Kecap ikan",
+      "jumlah": "5 gr (1 sdt)"
+    },
+    {
+      "nama": "Bawang merah & putih goreng",
+      "jumlah": "secukupnya"
+    },
+    {
+      "nama": "Semangka",
+      "jumlah": "540 gr"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor",
+      "langkah": [
+        "Campurkan ikan tenggiri cincang, tapioka, bawang daun, bawang merah goreng halus, bawang putih goreng, saos tiram, garam, merica, gula dan putih telur sampai merata dan adonan bisa dibentuk.",
+        "Ambil tahu yg sudah dilubangi bagian tengahnya, kemudian isi dengan 1 sendok makan adonan ikan. Lakukan sampai selesai.",
+        "Kukus baso tahu selama 15 sampai 20 menit.",
+        "Tumis bumbu halus sampai harum tambahkan air kaldu ayam atau udang, masak sampai mendidih.",
+        "Masukkan udang dan wortel, tambahkan kecap ikan, saos tiram, garam, merica dan gula secukupnya. Koreksi rasa sebelum api dimatikan.",
+        "Masukkan 2 tahu baso, pakcoy dan soun ke dalam mangkok, siram dengan air kuah udang dan wortel, tambahkan bawang goreng, seledri dan bawang daun.",
+        "Sajikan dengan nasi hangat dan buah."
+      ]
+    }
+  ],
+  "foto": "nasi-sup-tabas-udang-sayur,jpg"
+}

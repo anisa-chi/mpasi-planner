@@ -52,9 +52,9 @@ const RecipePickerModal: React.FC<RecipePickerModalProps> = ({
 				animate={{ y: 0 }}
 				exit={{ y: '100%' }}
 				transition={{ type: 'spring', damping: 30, stiffness: 300 }}
-				className='fixed bottom-0 top-1/4 left-0 right-0 z-50 p-3 border-2 border-ink rounded-t-xl bg-paper overflow-y-auto min-h-0'
+				className='fixed bottom-0 top-1/4 left-0 right-0 z-50 p-3 border-2 border-ink rounded-t-xl bg-paper flex flex-col overflow-hidden'
 			>
-				<div className='p-3 bg-paper rounded-t-xl border-t-2 border-x-2 border-ink flex justify-around items-center fixed top-1/4 left-0 right-0 z-50'>
+				<div className='flex justify-around items-center shrink-0'>
 					<p className='text-lg mb-2'>
 						Pilih Resep - <span>{dayName}</span>
 					</p>
@@ -63,11 +63,11 @@ const RecipePickerModal: React.FC<RecipePickerModalProps> = ({
 					</button>
 				</div>
 
-				<div className='mt-12 mb-2'>
+				<div className='mb-2 shrink-0'>
 					<SearchBar value={query} onChange={setQuery} />
 				</div>
 
-				<div className='flex gap-2 mb-2'>
+				<div className='flex gap-2 mb-2 shrink-0'>
 					{filterOptions.map((option) => (
 						<FilterChip
 							key={option}
@@ -78,7 +78,7 @@ const RecipePickerModal: React.FC<RecipePickerModalProps> = ({
 					))}
 				</div>
 
-				<div className='flex flex-col gap-2'>
+				<div className='pt-3 flex flex-col gap-2 overflow-y-auto flex-1 min-h-0'>
 					{filteredRecipes.map((recipe) => (
 						<button
 							key={recipe.id}
@@ -95,7 +95,7 @@ const RecipePickerModal: React.FC<RecipePickerModalProps> = ({
 								/>
 							</div>
 
-							<div>
+							<div className='flex flex-col justify-center items-start'>
 								<p>{recipe.nama}</p>
 								<p className='text-sm text-ink/60'>{recipe.kategori_menu}</p>
 							</div>

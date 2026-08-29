@@ -1,0 +1,47 @@
+{
+  "nama": "Bubur Kanju Rumbi Ayam dan Udang",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": ["Udang / Seafood"],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 87,
+    "protein": 5.1,
+    "karbohidrat": 10.1,
+    "lemak": 2.9
+  },
+  "bahan": [
+    {"nama": "Nasi putih", "jumlah": "60 gr (6 sdm)"},
+    {"nama": "Daging ayam bagian dada", "jumlah": "30 gr (3 sdm)"},
+    {"nama": "Udang segar", "jumlah": "20 gr"},
+    {"nama": "Wortel", "jumlah": "15 gr"},
+    {"nama": "Jagung pipil", "jumlah": "15 gr"},
+    {"nama": "Santan", "jumlah": "15 ml"},
+    {"nama": "Kaldu ayam", "jumlah": "350 ml"},
+    {"nama": "Daun pandan", "jumlah": "2 lembar"},
+    {"nama": "Bawang merah", "jumlah": "1 siung"},
+    {"nama": "Bawang putih", "jumlah": "1 siung"},
+    {"nama": "Kapulaga", "jumlah": "1/2 buah"},
+    {"nama": "Ketumbar", "jumlah": "1 gr"},
+    {"nama": "Kayumanis", "jumlah": "1 cm"},
+    {"nama": "Cengkeh", "jumlah": "1 buah"},
+    {"nama": "Merica", "jumlah": "1/4 sdt"},
+    {"nama": "Jintan campur adas", "jumlah": "1/4 sdt"},
+    {"nama": "Pekak", "jumlah": "1/4 buah"},
+    {"nama": "Buah pala", "jumlah": "Seujung jari"},
+    {"nama": "Pepaya", "jumlah": "50 gr (6 potong kecil)"}
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Cuci terlebih dahulu daging ayam hingga bersih, kemudian rebus sampai setengah matang. Setelah matang potong dadu daging ayam.",
+        "Cuci dan bersihkan udang, buang bagian kepala udang. Rebus dalam air bekas rebusan ayam tadi hingga udang berubah warna. Buang kulitnya dan potong udang menjadi 2 atau 3 bagian. Sisihkan.",
+        "Tumis bumbu halus, masukkan daun pandan. Aduk-aduk, kemudian tambahkan air kaldu, lalu masak nasi hingga nasi lembek dan menyerupai bubur.",
+        "Tambahkan potongan ayam, udang, wortel dan jagung, masak sambil sesekali diaduk. Jika dirasa kurang air, tambahkan kembali airnya, aduk hingga rata.",
+        "Matikan api, saring sesuai tekstur yang diinginkan. Sajikan."
+      ]
+    }
+  ],
+  "foto": "bubur-kanju-rumbi-ayam-dan-udang.jpg"
+}

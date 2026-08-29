@@ -1,0 +1,81 @@
+{
+  "nama": "Tim Bubur Manado Daging dan Udang",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Udang / Seafood"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 119,
+    "protein": 6.4,
+    "karbohidrat": 13.5,
+    "lemak": 4.4
+  },
+  "bahan": [
+    {
+      "nama": "Nasi putih",
+      "jumlah": "50 gr (5 sdm)"
+    },
+    {
+      "nama": "Labu kuning, potong dadu",
+      "jumlah": "40 gr (4 sdm)"
+    },
+    {
+      "nama": "Daging sapi cincang",
+      "jumlah": "40 gr (4 sdm)"
+    },
+    {
+      "nama": "Udang kupas",
+      "jumlah": "30 gr (3 ekor)"
+    },
+    {
+      "nama": "Jagung pipil",
+      "jumlah": "20 gr (2 sdm)"
+    },
+    {
+      "nama": "Bayam",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Minyak goreng",
+      "jumlah": "5 ml (1 sdt)"
+    },
+    {
+      "nama": "Garam",
+      "jumlah": "secukupnya"
+    },
+    {
+      "nama": "Daun bawang, diiris",
+      "jumlah": "10 gr (1 batang)"
+    },
+    {
+      "nama": "Kaldu daging",
+      "jumlah": "100 cc (1/3 gelas belimbing)"
+    },
+    {
+      "nama": "Bawang merah",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Bawang putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Buah naga",
+      "jumlah": "180 gr (1 potong)"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Tumis bumbu halus sampai harum.",
+        "Masukkan daging sapi dan udang, tumis hingga berubah warna, lalu tambahkan air kaldu, masak sampai mendidih.",
+        "Masukkan nasi, labu kuning, jagung dan bayam.",
+        "Masukkan daun bawang yang sudah diiris, masak hingga menyusut jangan lupa tambahkan garam secukupnya dan koreksi rasa. Sajikan."
+      ]
+    }
+  ],
+  "foto": "tim-bubur-manado-daging-dan-udang.jpg"
+}

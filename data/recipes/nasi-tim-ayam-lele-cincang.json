@@ -1,0 +1,65 @@
+{
+  "nama": "Nasi Tim Ayam Lele Cincang",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Ikan"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 125,
+    "protein": 4.5,
+    "karbohidrat": 15.7,
+    "lemak": 4.9
+  },
+  "bahan": [
+    {
+      "nama": "Nasi putih",
+      "jumlah": "100 gr (10 sdm)"
+    },
+    {
+      "nama": "Daging ayam cincang",
+      "jumlah": "30 gr (3 sdm)"
+    },
+    {
+      "nama": "Daging ikan lele",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Minyak goreng",
+      "jumlah": "5 ml (1 sdt)"
+    },
+    {
+      "nama": "Santan kental",
+      "jumlah": "10 ml (1 sdm)"
+    },
+    {
+      "nama": "Bawang bombay (iris halus)",
+      "jumlah": "1.5 sdm"
+    },
+    {
+      "nama": "Kaldu ayam",
+      "jumlah": "200 ml"
+    },
+    {
+      "nama": "Semangka",
+      "jumlah": "180 gr (1 potong besar)"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Masukkan nasi, daging ayam cincang, ikan lele, bawang bombay, minyak dan santan ke dalam mangkok tim.",
+        "Tambahkan air kaldu.",
+        "Masukkan wortel, masak hingga lunak dan matang.",
+        "Angkat dan sajikan."
+      ]
+    }
+  ],
+  "foto": "nasi-tim-ayam-lele-cincang.jpg"
+}

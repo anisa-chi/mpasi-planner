@@ -1,0 +1,84 @@
+{
+  "nama": "Bola-bola Nasi Rabuk Ikan",
+  "kategori_umur": "2-5thn",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Ikan",
+    "Gluten/Gandum",
+    "Telur"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 468,
+    "protein": 14.4,
+    "karbohidrat": 63.4,
+    "lemak": 17.4
+  },
+  "bahan": [
+    {
+      "nama": "Beras, masak hingga menjadi nasi",
+      "jumlah": "150 gr"
+    },
+    {
+      "nama": "Minyak sayur",
+      "jumlah": "40 gr (4 sdm)"
+    },
+    {
+      "nama": "Buncis, diiris",
+      "jumlah": "18 gr (2 sdm)"
+    },
+    {
+      "nama": "Wortel, cincang",
+      "jumlah": "10 gr (1 sdm)"
+    },
+    {
+      "nama": "Jagung pipil, cincang kasar",
+      "jumlah": "45 gr (4.5 sdm)"
+    },
+    {
+      "nama": "Tepung terigu",
+      "jumlah": "50 gr (5 sdm)"
+    },
+    {
+      "nama": "Telur ayam",
+      "jumlah": "30 gr (1/2 butir)"
+    },
+    {
+      "nama": "Rabuk ikan",
+      "jumlah": "50 gr (5 sdm)"
+    },
+    {
+      "nama": "Bawang bombay iris",
+      "jumlah": "10 gr (2 sdm)"
+    },
+    {
+      "nama": "Bawang putih & merah goreng",
+      "jumlah": "masing-masing 5 gr (1 sdt)"
+    },
+    {
+      "nama": "Telur ayam (bahan pelapis)",
+      "jumlah": "50 gr (1 butir)"
+    },
+    {
+      "nama": "Tepung roti/panir",
+      "jumlah": "secukupnya"
+    },
+    {
+      "nama": "Buah naga",
+      "jumlah": "300 gr"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor",
+      "langkah": [
+        "Tumis bawang dengan minyak hingga layu, kemudian masukkan sayuran (wortel, buncis dan jagung). Masak hingga setengah matang, lalu angkat.",
+        "Tambahkan nasi, terigu, telur, bawang putih goreng, bawang merah goreng, daun bawang, lada, garam, dan kaldu bubuk secukupnya, aduk hingga rata dan kalis.",
+        "Ambil sedikit nasi, pipihkan di tangan. Isi dengan rabuk ikan lalu bentuk bulat.",
+        "Lumuri dengan terigu, celupkan ke telur kocok dan gulingkan ke tepung roti/panir.",
+        "Diamkan minimal 1 jam atau simpan dalam lemari es. Panaskan minyak lalu goreng hingga berwarna kecoklatan."
+      ]
+    }
+  ],
+  "foto": "bola-bola-nasi-rabuk-ikan.jpg"
+}

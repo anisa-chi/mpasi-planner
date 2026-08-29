@@ -1,0 +1,80 @@
+{
+  "nama": "Nasi Masak Ayam Kecap Sayur",
+  "kategori_umur": "2-5thn",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Telur",
+    "Kedelai"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 424,
+    "protein": 22.9,
+    "karbohidrat": 42.3,
+    "lemak": 18.1
+  },
+  "bahan": [
+    {
+      "nama": "Nasi putih",
+      "jumlah": "300 gr (3 centong)"
+    },
+    {
+      "nama": "Dada ayam filet, iris tipis",
+      "jumlah": "120 gr (12 sdm)"
+    },
+    {
+      "nama": "Telur puyuh rebus",
+      "jumlah": "60 gr (6 butir)"
+    },
+    {
+      "nama": "Tahu putih, dipotong dadu",
+      "jumlah": "150 gr (2 buah besar)"
+    },
+    {
+      "nama": "Pakcoy, potong 3 cm",
+      "jumlah": "100 gr (10 sdm)"
+    },
+    {
+      "nama": "Kecap manis",
+      "jumlah": "40 gr (4 sdm)"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "50 ml (5 sdm)"
+    },
+    {
+      "nama": "Minyak",
+      "jumlah": "20 gr (2 sdm)"
+    },
+    {
+      "nama": "Bawang putih, cincang halus",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Bawang bombay, iris",
+      "jumlah": "1/4 buah"
+    },
+    {
+      "nama": "Batang daun bawang, potong-potong",
+      "jumlah": "secukupnya"
+    },
+    {
+      "nama": "Jeruk",
+      "jumlah": "300 gr (3 buah)"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor",
+      "langkah": [
+        "Masukkan minyak ke dalam wajan. Tumis bawang putih hingga harum.",
+        "Masukkan bawang bombay, aduk rata.",
+        "Masukkan ayam, masak hingga berubah warna.",
+        "Tambahkan tahu, telur puyuh rebus dan pakcoy, kecap manis, gula, garam, merica dan air. Aduk rata hingga matang.",
+        "Masukkan daun bawang, aduk rata.",
+        "Angkat dan sajikan."
+      ]
+    }
+  ],
+  "foto": "nasi-masak-ayam-kecap-sayur.jpg"
+}

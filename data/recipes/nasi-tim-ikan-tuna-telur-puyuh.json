@@ -1,0 +1,66 @@
+{
+  "nama": "Nasi Tim Ikan Tuna Telur Puyuh",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Ikan",
+    "Telur"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 120,
+    "protein": 4.6,
+    "karbohidrat": 15.7,
+    "lemak": 4.3
+  },
+  "bahan": [
+    {
+      "nama": "Nasi putih",
+      "jumlah": "115 gr (12 sdm)"
+    },
+    {
+      "nama": "Ikan tuna segar, haluskan",
+      "jumlah": "30 gr (1 potong kecil)"
+    },
+    {
+      "nama": "Telur puyuh",
+      "jumlah": "30 gr (3 butir)"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "15 gr (1 potong besar)"
+    },
+    {
+      "nama": "Tomat",
+      "jumlah": "10 gr (1 buah sedang)"
+    },
+    {
+      "nama": "Minyak kelapa",
+      "jumlah": "7.5 gr (1.5 sdt)"
+    },
+    {
+      "nama": "Kaldu ayam",
+      "jumlah": "75 cc (1/3 gelas belimbing)"
+    },
+    {
+      "nama": "Pepaya, haluskan",
+      "jumlah": "50 gr (1/2 potong)"
+    },
+    {
+      "nama": "Semangka",
+      "jumlah": "180 gr (1 potong besar)"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Masukkan nasi, ikan tuna, telur puyuh, minyak kelapa ke dalam mangkok tim.",
+        "Tambahkan air kaldu.",
+        "Masukkan wortel dan tomat, tim hingga matang.",
+        "Angkat, sajikan dengan saos papaya."
+      ]
+    }
+  ],
+  "foto": "nasi-tim-ikan-tuna-telur-puyuh.jpg"
+}

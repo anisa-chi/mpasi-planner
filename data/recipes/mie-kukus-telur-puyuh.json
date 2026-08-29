@@ -1,0 +1,68 @@
+{
+  "nama": "Mie Kukus Telur Puyuh",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "Gluten/Gandum",
+    "Telur",
+    "Susu/Keju"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 135,
+    "protein": 5.1,
+    "karbohidrat": 11.5,
+    "lemak": 7.6
+  },
+  "bahan": [
+    {
+      "nama": "Mie instan batita atau mie keriting",
+      "jumlah": "85 gr (3 bungkus)"
+    },
+    {
+      "nama": "Telur puyuh",
+      "jumlah": "60 gr (6 butir)"
+    },
+    {
+      "nama": "Wortel parut",
+      "jumlah": "50 gr (5 sdm)"
+    },
+    {
+      "nama": "Keju parut",
+      "jumlah": "50 gr (5 sdm)"
+    },
+    {
+      "nama": "Bawang daun iris",
+      "jumlah": "10 gr (1 batang)"
+    },
+    {
+      "nama": "Minyak untuk menggoreng",
+      "jumlah": "secukupnya"
+    },
+    {
+      "nama": "Bumbu mie instan batita",
+      "jumlah": "secukupnya"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "300 ml"
+    },
+    {
+      "nama": "Pepaya",
+      "jumlah": "150 gr (6 potong kecil)"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kompor/Panci",
+      "langkah": [
+        "Didihkan air sebanyak 300 ml masukkan mie instan balita atau mie keriting sampai lunak dan matang.",
+        "Masak mie instan balita atau mie keriting hingga matang.",
+        "Tambahkan wortel parut, bawang daun, keju parut, dan bumbu mie instan batita secukupnya, kembali aduk sampai merata.",
+        "Masukkan 1 sdm adonan mie ke dalam wadah tahan panas yg sudah diolesi minyak dan masukan telur puyuh yang sudah direbus. Lakukan sampai adonan habis.",
+        "Kukus selama 15 menit. Setelah matang boleh langsung dikonsumsi atau digoreng sampai kuning keemasan. Hidangkan."
+      ]
+    }
+  ],
+  "foto": "mie-kukus-telur-puyuh.jpg"
+}
