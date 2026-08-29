@@ -55,7 +55,9 @@ const RecipeMeta: React.FC<RecipeMetaProps> = ({
 
 			{alergen.length !== 0 && (
 				<div className='mt-2 w-full px-3 py-1.5 border-2 border-red rounded-[12px_8px_18px_6px/8px_18px_6px_12px]'>
-					<p className='text-sm text-red'>⚠ Mengandung alergen: {alergen}</p>
+					<p className='text-sm text-red'>
+						⚠ Mengandung alergen: {alergen.join(', ')}
+					</p>
 				</div>
 			)}
 
