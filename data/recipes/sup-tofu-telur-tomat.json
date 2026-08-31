@@ -1,0 +1,53 @@
+{
+  "nama": "Sup Tofu Telur Tomat",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur",
+    "kedelai"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": "214.5 kkal",
+    "protein": "9.45 gram",
+    "karbohidrat": "6.49 gram",
+    "lemak": "22.05 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Tomat",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Telur Ayam",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Tahu Putih",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "BUMBOO Beef Fat Oil",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Rebus",
+      "langkah": [
+        "Haluskan atau blender tomat, sisihkan.",
+        "Panaskan BUMBOO Beef Fat Oil di sauce pan.",
+        "Saring hasil blender tomat, tuang ke sauce pan.",
+        "Tambahkan telur sedikit demi sedikit dan aduk perlahan.",
+        "Masukkan tahu yang sudah dipotong kecil-kecil.",
+        "Tambahkan BUMBOO Kaldu Jamur.",
+        "Masak hingga telur matang."
+      ]
+    }
+  ],
+  "foto": "sup-tofu-telur-tomat.jpg"
+}

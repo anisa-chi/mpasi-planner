@@ -1,0 +1,73 @@
+{
+  "nama": "Sosis Teri Nasi",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur",
+    "kedelai",
+    "susu",
+    "ikan"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "126.5 kkal",
+    "protein": "5.4 gram",
+    "karbohidrat": "14.16 gram",
+    "lemak": "6.3 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Nasi Putih",
+      "jumlah": "70 gr"
+    },
+    {
+      "nama": "Telur Ayam",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Tahu Putih",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Bawang Merah",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Daun Bawang",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Teri Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Lumatkan nasi putih, tahu putih, telur ayam, bawang merah, bawang putih dan daun bawang menggunakan blender.",
+        "Tambahkan BUMBOO Kaldu Jamur, BUMBOO Teri Bubuk, BUMBOO Olive Oil (EVOO), dan BUMBOO Keju Bubuk ke dalam adonan, campur hingga rata.",
+        "Masukkan ke piping bag/plastik segitiga, masukkan ke cetakan yang sudah diolesi minyak.",
+        "Kukus selama 30 menit.",
+        "Sosis Teri Nasi bisa langsung disajikan atau dipanggang lagi."
+      ]
+    }
+  ],
+  "foto": "sosis-teri-nasi.jpg"
+}

@@ -1,0 +1,51 @@
+{
+  "nama": "Tahu Brokoli Kukus Santan",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "kedelai",
+    "telur"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": "214.5 kkal",
+    "protein": "10.65 gram",
+    "karbohidrat": "3.54 gram",
+    "lemak": "24.5 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Tahu Putih",
+      "jumlah": "1/2 buah"
+    },
+    {
+      "nama": "Telur Ayam",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Brokoli",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "50 ml"
+    },
+    {
+      "nama": "BUMBOO Chicken Fat Oil",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Haluskan tahu putih dan brokoli.",
+        "Campur dengan telur dan santan, aduk hingga merata.",
+        "Tambahkan BUMBOO Chicken Fat Oil.",
+        "Pindahkan adonan ke wadah tahan panas.",
+        "Kukus selama 15 menit hingga matang."
+      ]
+    }
+  ],
+  "foto": "tahu-brokoli-kukus-santan.jpg"
+}

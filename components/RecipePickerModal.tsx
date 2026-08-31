@@ -96,7 +96,7 @@ const RecipePickerModal: React.FC<RecipePickerModalProps> = ({
 							</div>
 
 							<div className='flex flex-col justify-center items-start'>
-								<p>{recipe.nama}</p>
+								<p className='text-left'>{recipe.nama}</p>
 								<p className='text-sm text-ink/60'>{recipe.kategori_menu}</p>
 							</div>
 						</button>
