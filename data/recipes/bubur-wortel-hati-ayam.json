@@ -1,0 +1,61 @@
+{
+  "nama": "Bubur Wortel Hati Ayam",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "kedelai"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "184 kkal",
+    "protein": "3.6 gram",
+    "karbohidrat": "28.35 gram",
+    "lemak": "6.65 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Nasi",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Tempe",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Wortel Parut",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Sereh",
+      "jumlah": "1 batang"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Rebus / Masak",
+      "langkah": [
+        "Masukkan nasi, tempe, wortel, sereh, dan air ke dalam panci.",
+        "Tambahkan BUMBOO Ati Ayam Bubuk, BUMBOO Kaldu Ayam, BUMBOO Kaldu Jamur, dan BUMBOO Olive Oil (EVOO). Masak hingga mendidih sambil diaduk sesekali.",
+        "Jika air mulai susut, aduk hingga bubur mengental.",
+        "Pisahkan sereh, Bubur Wortel Hati Ayam siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "bubur-wortel-hati-ayam.jpg"
+}

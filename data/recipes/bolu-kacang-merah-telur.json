@@ -1,0 +1,52 @@
+{
+  "nama": "Bolu Kacang Merah Telur",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "165 kkal",
+    "protein": "7.05 gram",
+    "karbohidrat": "17.11 gram",
+    "lemak": "10.85 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Kacang Merah",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "65 ml"
+    },
+    {
+      "nama": "Telur Bebek",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Gula Kelapa Organik (Brown Sugar)",
+      "jumlah": "3 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Rendam kacang merah semalaman, kemudian rebus.",
+        "Masukkan kacang merah yang sudah direbus, telur bebek, gula kelapa organik (brown sugar) dan BUMBOO Keju Bubuk ke dalam blender, haluskan.",
+        "Saring adonan, lalu tambahkan santan, aduk dan campur merata.",
+        "Masukkan adonan tadi dalam wadah tahan panas.",
+        "Kukus selama 25 menit.",
+        "Bolu Kacang Merah Telur siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "bolu-kacang-merah-telur.jpg"
+}

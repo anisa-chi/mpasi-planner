@@ -1,0 +1,58 @@
+{
+  "nama": "Broccoli Potato Pancake",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "susu"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": "148.5 kkal",
+    "protein": "3.45 gram",
+    "karbohidrat": "19.47 gram",
+    "lemak": "6.65 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Kentang",
+      "jumlah": "185 gr"
+    },
+    {
+      "nama": "Brokoli",
+      "jumlah": "90 gr"
+    },
+    {
+      "nama": "Tepung Maizena",
+      "jumlah": "4 sdm"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Panggang / Masak Tefon",
+      "langkah": [
+        "Haluskan kentang dan brokoli dengan chopper/blender.",
+        "Pindahkan ke wadah, tambahkan telur, tepung jagung, BUMBOO Keju Bubuk, dan BUMBOO Kaldu Ayam. Aduk hingga semua bahan tercampur rata.",
+        "Panaskan teflon atau wajan anti lengket, tuang BUMBOO Canola Oil.",
+        "Masak adonan hingga matang berwarna kecokelatan."
+      ]
+    }
+  ],
+  "foto": "broccoli-potato-pancake.jpg"
+}

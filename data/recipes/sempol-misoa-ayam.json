@@ -1,0 +1,68 @@
+{
+  "nama": "Sempol Misoa Ayam",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "gandum",
+    "telur"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": "192 kkal",
+    "protein": "9.6 gram",
+    "karbohidrat": "24.15 gram",
+    "lemak": "5.6 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Misoa",
+      "jumlah": "50 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Ayam",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Tepung Tapioka",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Teri Bubuk",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Sapi",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Chicken Fat Oil",
+      "jumlah": "Secukupnya untuk menggoreng"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus dan Goreng",
+      "langkah": [
+        "Rebus misoa hingga matang, angkat kemudian tiriskan.",
+        "Masukkan misoa bersama wortel, ayam, tepung tapioka, BUMBOO Teri Bubuk, BUMBOO Kaldu Sapi dan BUMBOO Olive Oil (EVOO). Chopper hingga halus.",
+        "Tambahkan telur ke adonan, aduk merata.",
+        "Siapkan cetakan es krim silikon, tuang adonan ke cetakan dan tempelkan stik es krim.",
+        "Kukus adonan 20 menit. Lalu, goreng menggunakan BUMBOO Chicken Fat Oil sampai kecokelatan.",
+        "Sempol Misoa Ayam bisa dihidangkan dengan digoreng lebih dulu atau langsung dimakan."
+      ]
+    }
+  ],
+  "foto": "sempol-misoa-ayam.jpg"
+}

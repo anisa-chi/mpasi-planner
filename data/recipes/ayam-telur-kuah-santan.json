@@ -1,0 +1,53 @@
+{
+  "nama": "Ayam Telur Kuah Santan",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "200 kkal",
+    "protein": "8.55 gram",
+    "karbohidrat": "21.0 gram",
+    "lemak": "8.05 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Daging Ayam Giling",
+      "jumlah": "50 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Bumbu Putih",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "Bubuk Santan",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Bubuk Kunyit",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Masak",
+      "langkah": [
+        "Tumis bumbu putih hingga wangi, masukkan ayam giling dan telur.",
+        "Tambahkan air, bubuk santan, bubuk kunyit, dan BUMBOO Ati Ayam Bubuk.",
+        "Masak hingga ayam matang.",
+        "Ayam Telur Kuah Santan siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "ayam-telur-kuah-santan.jpg"
+}

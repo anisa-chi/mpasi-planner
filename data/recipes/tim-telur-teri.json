@@ -1,0 +1,68 @@
+{
+  "nama": "Tim Telur Teri",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "ikan",
+    "telur",
+    "kedelai",
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "280 kkal",
+    "protein": "7.65 gram",
+    "karbohidrat": "29.4 gram",
+    "lemak": "12.25 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Nasi",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Teri Basah",
+      "jumlah": "20 gr"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "80 ml"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Tahu Jepang",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Tomat",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Campurkan teri, santan, telur, tahu jepang, dan tomat.",
+        "Tambahkan BUMBOO Kaldu Ayam, BUMBOO Ati Ayam Bubuk, dan BUMBOO Keju Bubuk ke adonan teri. Aduk rata.",
+        "Pindahkan adonan ke wadah tahan panas, kukus 30 menit.",
+        "Hidangkan bersama nasi dengan tekstur sesuai selera."
+      ]
+    }
+  ],
+  "foto": "tim-telur-teri.jpg"
+}

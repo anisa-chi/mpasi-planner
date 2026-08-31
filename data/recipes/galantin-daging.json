@@ -1,0 +1,68 @@
+{
+  "nama": "Galantin Daging",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur",
+    "susu",
+    "gandum"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": "181.5 kkal",
+    "protein": "17.25 gram",
+    "karbohidrat": "8.85 gram",
+    "lemak": "10.5 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Daging Ayam Cincang",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Daging Sapi Cincang",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "30 ml"
+    },
+    {
+      "nama": "Tepung Panir",
+      "jumlah": "3 sdm"
+    },
+    {
+      "nama": "Bawang Bombay",
+      "jumlah": "1/4 buah"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Masukkan daging ayam cincang, daging sapi cincang, telur, susu, bawang bombay, dan bawang putih ke chopper/blender, kemudian haluskan.",
+        "Tambahkan BUMBOO Kaldu Jamur dan BUMBOO Kaldu Ayam ke adonan, campur merata.",
+        "Masukkan tepung panir, campur hingga merata.",
+        "Bungkus adonan dengan menggunakan daun pisang.",
+        "Kukus 30 menit hingga matang."
+      ]
+    }
+  ],
+  "foto": "galantin-daging.jpg"
+}

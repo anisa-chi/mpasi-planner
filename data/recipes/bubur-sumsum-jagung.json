@@ -1,0 +1,45 @@
+{
+  "nama": "Bubur Sumsum Jagung",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "176 kkal",
+    "protein": "2.7 gram",
+    "karbohidrat": "11.21 gram",
+    "lemak": "17.85 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Jagung Pipil",
+      "jumlah": "200 gr"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "150 ml"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "3 sdt"
+    },
+    {
+      "nama": "Tepung Beras",
+      "jumlah": "Secukupnya"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Masak Kompor",
+      "langkah": [
+        "Masukkan jagung pipil dan santan ke dalam blender, haluskan.",
+        "Saring adonan jagung pipil dan ambil sarinya.",
+        "Tambahkan tepung beras dan BUMBOO Keju Bubuk.",
+        "Panaskan wajan, masak hingga matang dan agak mengental."
+      ]
+    }
+  ],
+  "foto": "bubur-sumsum-jagung.jpg"
+}

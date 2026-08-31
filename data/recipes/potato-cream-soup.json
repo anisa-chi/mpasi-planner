@@ -1,0 +1,62 @@
+{
+  "nama": "Potato Cream Soup",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "187 kkal",
+    "protein": "8.25 gram",
+    "karbohidrat": "8.26 gram",
+    "lemak": "11.9 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Kentang Besar",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Daging Ayam Giling",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Kembang Kol",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "200 ml"
+    },
+    {
+      "nama": "Bawang Bombay Cincang",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Chicken Fat Oil",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Masak",
+      "langkah": [
+        "Panaskan BUMBOO Chicken Fat Oil dalam wajan.",
+        "Tumis bawang bombay dan ayam giling tunggu sampai matang.",
+        "Masukkan tepung maizena, kembang kol yang sudah dipotong, kentang yang sudah dikukus, susu UHT, BUMBOO Kaldu Jamur, dan BUMBOO Keju Bubuk, aduk hingga tercampur rata.",
+        "Masak hingga mengental.",
+        "Potato Cream Soup siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "potato-cream-soup.jpg"
+}

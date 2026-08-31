@@ -1,0 +1,58 @@
+{
+  "nama": "Pasta Ball",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "gandum",
+    "telur"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "232 kkal",
+    "protein": "9.6 gram",
+    "karbohidrat": "24.15 gram",
+    "lemak": "9.1 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Pasta Makaroni",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Telur Ayam",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Tepung Roti",
+      "jumlah": "3 sdt"
+    },
+    {
+      "nama": "Tepung Tapioka",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "Secukupnya untuk menggoreng"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Goreng",
+      "langkah": [
+        "Rebus pasta makaroni hingga matang, tiriskan.",
+        "Campur pasta makaroni dengan BUMBOO Ati Ayam Bubuk dan tepung tapioka. Aduk rata.",
+        "Bentuk adonan pasta menjadi bulat-bulat.",
+        "Kocok telur dan siapkan tepung roti.",
+        "Lapisi adonan pasta ball dengan telur lalu baluri dengan tepung roti.",
+        "Bekukan pasta ball selama 10-15 menit.",
+        "Panaskan BUMBOO Canola Oil, goreng pasta ball hingga berwarna cokelat keemasan.",
+        "Pasta Ball siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "pasta-ball.jpg"
+}

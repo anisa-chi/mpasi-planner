@@ -1,0 +1,55 @@
+{
+  "nama": "Bolu Kukus Ubi Ungu",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "susu",
+    "gandum"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "121 kkal",
+    "protein": "4.05 gram",
+    "karbohidrat": "12.39 gram",
+    "lemak": "7.0 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Ubi Ungu",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "30 ml"
+    },
+    {
+      "nama": "Gula Pasir",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Telur Ayam",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Biskuit Marie",
+      "jumlah": "5 keping"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Masukkan ubi ungu, biskuit marie, dan santan, lalu tumbuk hingga halus.",
+        "Masukkan telur, gula, dan BUMBOO Keju Bubuk. Aduk dan campur merata.",
+        "Masukkan seluruh adonan ke dalam wadah tahan panas.",
+        "Kukus selama 20-25 menit hingga matang."
+      ]
+    }
+  ],
+  "foto": "bolu-kukus-ubi-ungu.jpg"
+}

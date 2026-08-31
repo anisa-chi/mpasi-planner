@@ -1,0 +1,65 @@
+{
+  "nama": "Potato Stick",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "gandum",
+    "susu"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": "224 kkal",
+    "protein": "4.2 gram",
+    "karbohidrat": "42.0 gram",
+    "lemak": "5.25 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Kentang",
+      "jumlah": "2 buah"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Tepung Terigu",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Wortel Parut",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "Secukupnya untuk menggoreng"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Goreng",
+      "langkah": [
+        "Campur kentang yang sudah dihaluskan dengan telur, tepung terigu, dan wortel parut.",
+        "Tambahkan BUMBOO Ati Ayam Bubuk dan BUMBOO Kaldu Jamur, aduk adonan kentang hingga semua bahan tercampur merata.",
+        "Panaskan BUMBOO Canola Oil secukupnya untuk menggoreng.",
+        "Masukkan adonan kentang ke piping bag/plastik segitiga, goreng adonan berbentuk memanjang.",
+        "Angkat potato stick yang sudah berwarna keemasan, taburkan BUMBOO Keju Bubuk.",
+        "Potato Stick siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "potato-stick.jpg"
+}

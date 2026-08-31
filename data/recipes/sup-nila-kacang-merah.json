@@ -1,0 +1,62 @@
+{
+  "nama": "Sup Nila Kacang Merah",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "ikan",
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "187 kkal",
+    "protein": "2.1 gram",
+    "karbohidrat": "20.65 gram",
+    "lemak": "7.7 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Ikan Nila",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Kentang",
+      "jumlah": "150 gr"
+    },
+    {
+      "nama": "Kacang Merah",
+      "jumlah": "20 gr"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Chicken Fat Oil",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Rebus / Masak",
+      "langkah": [
+        "Rebus kacang merah, iris tipis-tipis.",
+        "Rebus kentang dan wortel, haluskan.",
+        "Panaskan BUMBOO Chicken Fat Oil, tumis ikan nila dan wortel yang sudah dihaluskan.",
+        "Tambahkan 250 ml air.",
+        "Masukkan kentang.",
+        "Tambahkan BUMBOO Kaldu Jamur, aduk rata dan tunggu hingga sup setengah matang.",
+        "Tambahkan BUMBOO Keju Bubuk, masak hingga sup mengental seperti bubur.",
+        "Sup Nila Kacang Merah siap disajikan."
+      ]
+    }
+  ],
+  "foto": "sup-nila-kacang-merah.jpg"
+}

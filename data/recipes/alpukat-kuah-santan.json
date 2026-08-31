@@ -1,0 +1,49 @@
+{
+  "nama": "Alpukat Kuah Santan",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "231 kkal",
+    "protein": "2.7 gram",
+    "karbohidrat": "12.98 gram",
+    "lemak": "24.5 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Alpukat",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "100 ml"
+    },
+    {
+      "nama": "Gula Pasir",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Bubuk Agar-agar",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Masak Kompor",
+      "langkah": [
+        "Siapkan alpukat, pisahkan dengan bijinya. Ambil daging alpukat dan masukkan ke blender, haluskan lalu tuang ke dalam mangkuk kaca. Sisihkan.",
+        "Siapkan sauce pan, masukkan gula pasir, bubuk agar-agar, santan, dan BUMBOO Keju Bubuk. Masak dan aduk sampai mengental.",
+        "Tuangkan kuah santan di atas alpukat yang sudah disiapkan.",
+        "Alpukat Santan Keju siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "alpukat-kuah-santan.jpg"
+}

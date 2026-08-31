@@ -1,0 +1,65 @@
+{
+  "nama": "Mashed Chicken Potato",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "126.5 kkal",
+    "protein": "4.65 gram",
+    "karbohidrat": "10.03 gram",
+    "lemak": "9.45 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Kentang",
+      "jumlah": "50 gr"
+    },
+    {
+      "nama": "Daging Ayam Cincang",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Brokoli",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Bawang Merah",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Susu UHT Plain",
+      "jumlah": "110 ml"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1/2 sdt"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Masak",
+      "langkah": [
+        "Panaskan BUMBOO Canola Oil, tumis bawang merah dan bawang putih hingga harum.",
+        "Tambahkan daging ayam giling dan masak hingga setengah matang.",
+        "Tambahkan BUMBOO Keju Bubuk, BUMBOO Kaldu Ayam, kentang yang sudah dihaluskan, brokoli, dan susu UHT plain.",
+        "Masak adonan hingga matang."
+      ]
+    }
+  ],
+  "foto": "mashed-chicken-potato.jpg"
+}

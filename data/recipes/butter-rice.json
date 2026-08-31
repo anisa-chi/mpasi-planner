@@ -1,0 +1,53 @@
+{
+  "nama": "Butter Rice",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "181.5 kkal",
+    "protein": "3.0 gram",
+    "karbohidrat": "30.09 gram",
+    "lemak": "5.6 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Beras",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Salted Butter",
+      "jumlah": "7 gr"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1/2 sdt"
+    },
+    {
+      "nama": "Daun Bawang",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Chicken Fat Oil",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Sapi",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Masak Rice Cooker",
+      "langkah": [
+        "Cuci beras hingga bersih, masukkan ke rice cooker.",
+        "Tambahkan salted butter, BUMBOO Chicken Fat Oil, BUMBOO Kaldu Sapi, daun bawang, dan bawang putih.",
+        "Aduk sampai merata.",
+        "Masak beras hingga matang."
+      ]
+    }
+  ],
+  "foto": "butter-rice.jpg"
+}

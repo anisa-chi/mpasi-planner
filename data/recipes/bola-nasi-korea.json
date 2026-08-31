@@ -1,0 +1,61 @@
+{
+  "nama": "Bola Nasi Korea",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "248 kkal",
+    "protein": "7.05 gram",
+    "karbohidrat": "23.1 gram",
+    "lemak": "12.25 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Nasi",
+      "jumlah": "70 gr"
+    },
+    {
+      "nama": "Daging Sapi Giling",
+      "jumlah": "50 gr"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Nori",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Daun Bawang",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Sapi",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis",
+      "langkah": [
+        "Panaskan BUMBOO Olive Oil (EVOO), tumis bawang putih dan daging sapi giling.",
+        "Tambahkan BUMBOO Kaldu Sapi dan daun bawang, tumis hingga daging matang dan daun bawang agak layu.",
+        "Siapkan wadah, masukkan nasi dan tumisan daging.",
+        "Tambahkan BUMBOO Ati Ayam Bubuk dan nori, aduk hingga semua bahan tercampur.",
+        "Bentuk nasi menjadi bulatan-bulatan kecil.",
+        "Bola Nasi Korea siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "bola-nasi-korea.jpg"
+}

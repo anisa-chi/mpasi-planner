@@ -1,0 +1,56 @@
+{
+  "nama": "Setup Roti Keju",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "gandum",
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "242 kkal",
+    "protein": "4.95 gram",
+    "karbohidrat": "54.28 gram",
+    "lemak": "10.85 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Roti Tawar",
+      "jumlah": "1 lembar"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "200 ml"
+    },
+    {
+      "nama": "Gula Pasir",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "60 ml"
+    },
+    {
+      "nama": "Tepung Maizena",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Masak Kompor",
+      "langkah": [
+        "Masak susu, santan, dan gula pasir sampai mendidih.",
+        "Larutkan tepung maizena dengan air, tuang ke campuran susu.",
+        "Aduk sampai susu mengental menjadi vla.",
+        "Siapkan wadah, letakkan potongan roti, lalu siram dengan vla.",
+        "Taburkan BUMBOO Keju Bubuk.",
+        "Ulangi sampai vla dan roti habis."
+      ]
+    }
+  ],
+  "foto": "setup-roti-keju.jpg"
+}

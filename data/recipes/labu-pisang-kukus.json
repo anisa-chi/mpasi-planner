@@ -1,0 +1,54 @@
+{
+  "nama": "Labu Pisang Kukus",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "110 kkal",
+    "protein": "4.5 gram",
+    "karbohidrat": "11.21 gram",
+    "lemak": "5.95 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Labu Kuning",
+      "jumlah": "150 gr"
+    },
+    {
+      "nama": "Pisang Ambon",
+      "jumlah": "1½ buah"
+    },
+    {
+      "nama": "Telur Ayam",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "50 ml"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Masukkan labu kuning yang sudah direbus dan setengah buah pisang ambon, tumbuk dan haluskan.",
+        "Tambahkan telur, susu UHT, BUMBOO Keju Bubuk, dan BUMBOO Olive Oil (EVOO). Aduk dan campur merata.",
+        "Masukkan seluruh adonan dalam wadah tahan panas.",
+        "Kukus selama 20 menit hingga matang."
+      ]
+    }
+  ],
+  "foto": "labu-pisang-kukus.jpg"
+}

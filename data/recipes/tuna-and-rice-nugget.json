@@ -1,0 +1,69 @@
+{
+  "nama": "Tuna and Rice Nugget",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "ikan",
+    "telur",
+    "gandum",
+    "susu"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": "304 kkal",
+    "protein": "13.2 gram",
+    "karbohidrat": "27.3 gram",
+    "lemak": "11.9 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Daging Ikan Tuna",
+      "jumlah": "150 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Nasi",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Tepung Terigu",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Daun Bawang",
+      "jumlah": "1 batang"
+    },
+    {
+      "nama": "Bawang Putih Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Sapi",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Goreng / Panggang Wajan",
+      "langkah": [
+        "Suwir-suwir daging tuna kukus. Campurkan dengan telur, nasi, tepung terigu, daun bawang, dan bawang putih bubuk.",
+        "Tambahkan BUMBOO Kaldu Sapi, BUMBOO Keju Bubuk, dan BUMBOO Olive Oil (EVOO), campur adonan hingga rata.",
+        "Bentuk adonan sesuai selera.",
+        "Panaskan BUMBOO Olive Oil (EVOO) secukupnya, masak nugget hingga berwarna cokelat keemasan di kedua sisinya.",
+        "Tuna and Rice Nugget siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "tuna-and-rice-nugget.jpg"
+}

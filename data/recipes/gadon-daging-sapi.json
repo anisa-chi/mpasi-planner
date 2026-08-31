@@ -1,0 +1,57 @@
+{
+  "nama": "Gadon Daging Sapi",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "165 kkal",
+    "protein": "9.6 gram",
+    "karbohidrat": "2.36 gram",
+    "lemak": "16.8 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Daging Sapi",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "2 siung"
+    },
+    {
+      "nama": "Bawang Merah",
+      "jumlah": "4 siung"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "50 ml"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Blender bawang putih dan bawang merah dengan BUMBOO Olive Oil (EVOO).",
+        "Campurkan daging sapi giling, tambahkan BUMBOO Ati Ayam Bubuk dan santan.",
+        "Masukkan campuran daging sapi ke wadah tahan panas.",
+        "Kukus selama 10 menit hingga matang."
+      ]
+    }
+  ],
+  "foto": "gadon-daging-sapi.jpg"
+}

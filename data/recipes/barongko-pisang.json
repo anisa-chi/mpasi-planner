@@ -1,0 +1,45 @@
+{
+  "nama": "Barongko Pisang",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "121 kkal",
+    "protein": "4.35 gram",
+    "karbohidrat": "11.8 gram",
+    "lemak": "8.4 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Pisang Ambon",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "50 ml"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Haluskan buah pisang. Masukkan telur, santan dan BUMBOO Keju Bubuk, lalu aduk dan campur merata.",
+        "Masukkan adonan ke dalam wadah tahan panas.",
+        "Kukus selama 20 menit hingga matang."
+      ]
+    }
+  ],
+  "foto": "barongko-pisang.jpg"
+}

@@ -1,0 +1,54 @@
+{
+  "nama": "Bolu Kukus Kacang Hijau",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "121 kkal",
+    "protein": "4.95 gram",
+    "karbohidrat": "11.8 gram",
+    "lemak": "6.65 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Kacang Hijau",
+      "jumlah": "3 sdm"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Telur Ayam",
+      "jumlah": "1 pcs"
+    },
+    {
+      "nama": "Gula Pasir",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "30 ml"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "3 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Siapkan blender, masukkan kacang hijau yang sudah direbus, gula pasir, telur dan santan. Haluskan lalu masukkan ke dalam mangkuk kaca.",
+        "Masukkan dan campurkan BUMBOO Keju Bubuk dan susu UHT, aduk merata.",
+        "Kukus selama 20 menit.",
+        "Bolu Kukus Kacang Hijau siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "bolu-kukus-kacang-hijau.jpg"
+}

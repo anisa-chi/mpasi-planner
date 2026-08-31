@@ -1,0 +1,62 @@
+{
+  "nama": "Puding Daging",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur",
+    "kedelai"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": "148.5 kkal",
+    "protein": "5.7 gram",
+    "karbohidrat": "2.95 gram",
+    "lemak": "16.1 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Daging Sapi Giling",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Bawang Bombay",
+      "jumlah": "1/2 sdm"
+    },
+    {
+      "nama": "Saus Tiram",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Kecap Manis",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "1/2 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Campur daging sapi giling, telur, bawang putih halus, bawang bombay cincang, saus tiram, dan kecap manis. Aduk rata.",
+        "Tambahkan BUMBOO Olive Oil (EVOO) dan BUMBOO Ati Ayam Bubuk, aduk kembali hingga rata.",
+        "Pindahkan adonan ke wadah tahan panas.",
+        "Kukus selama 10-15 menit hingga matang."
+      ]
+    }
+  ],
+  "foto": "pudding-daging.jpg"
+}
