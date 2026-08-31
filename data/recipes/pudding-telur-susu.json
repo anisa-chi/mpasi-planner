@@ -1,0 +1,49 @@
+{
+  "nama": "Puding Telur Susu",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "susu"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": "198",
+    "protein": "5.85",
+    "karbohidrat": "9.44",
+    "lemak": "11.9"
+  },
+  "bahan": [
+    {
+      "nama": "Kuning Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "125 ml"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Siapkan mangkuk bersih tahan panas.",
+        "Pecahkan telur, masukkan ke mangkuk.",
+        "Tambahkan santan dan susu UHT.",
+        "Aduk perlahan hingga tercampur.",
+        "Tambahkan BUMBOO Keju Bubuk.",
+        "Aduk lagi hingga semua bahan tercampur rata.",
+        "Kukus adonan hingga matang."
+      ]
+    }
+  ],
+  "foto": "pudding-telur-susu.jpg"
+}

@@ -1,0 +1,57 @@
+{
+  "nama": "Bubur Ikan Jagung",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "ikan"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": "121",
+    "protein": "10.35",
+    "karbohidrat": "10.62",
+    "lemak": "5.95"
+  },
+  "bahan": [
+    {
+      "nama": "Bubur Nasi",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Jagung Pipil",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Daging Ikan",
+      "jumlah": "60 gr"
+    },
+    {
+      "nama": "Bumboo Olive Oil (EVOO)",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Bumboo Teri Bubuk",
+      "jumlah": "1/2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Rebus / Masak",
+      "langkah": [
+        "Siapkan rice cooker atau panci.",
+        "Cuci beras hingga bersih.",
+        "Masukkan beras yang sudah dicuci ke rice cooker atau panci, tambahkan air, BUMBOO Teri Bubuk, BUMBOO Olive Oil (EVOO), ikan, jagung, bawang putih dan parutan wortel.",
+        "Aduk merata, masak dengan api sedang hingga nasi menjadi bubur."
+      ]
+    }
+  ],
+  "foto": "bubur-ikan-jagung.jpg"
+}

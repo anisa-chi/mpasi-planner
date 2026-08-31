@@ -1,0 +1,69 @@
+{
+  "nama": "Bakso Nasi",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": "137.5 kkal",
+    "protein": "8.7 gram",
+    "karbohidrat": "41.3 gram",
+    "lemak": "5.25 gram"
+  },
+  "bahan": [
+    {
+      "nama": "Nasi Putih",
+      "jumlah": "70 gr"
+    },
+    {
+      "nama": "Ayam Giling",
+      "jumlah": "50 gr"
+    },
+    {
+      "nama": "Brokoli",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "Telur Ayam",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Tepung Maizena",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Bawang Bombay",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "Air Matang",
+      "jumlah": "200 ml"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Chicken Fat Oil",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Rebus",
+      "langkah": [
+        "Masukkan nasi putih, ayam giling, brokoli ke dalam blender.",
+        "Tambahkan BUMBOO Ati Ayam Bubuk, telur, tepung maizena ke dalam blender.",
+        "Haluskan seluruh bahan yang ada di blender sampai halus.",
+        "Tumis potongan bawang bombay dengan BUMBOO Chicken Fat Oil di wajan sampai berubah warna.",
+        "Lalu campurkan dengan air matang.",
+        "Bahan yang sudah dihaluskan sebelumnya diblender, dibuat menjadi bentuk bola-bola dan dimasukkan kedalam kulkas 30 menit.",
+        "Setelah adonan memadat, rebus selama 30 menit.",
+        "Bakso Nasi siap disajikan."
+      ]
+    }
+  ],
+  "foto": "bakso-nasi.jpg"
+}

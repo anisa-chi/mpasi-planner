@@ -1,0 +1,55 @@
+{
+  "nama": "Steamed Chicken With Egg",
+  "kategori_umur": "6-8bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur",
+    "kedelai"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": "154",
+    "protein": "11.7",
+    "karbohidrat": "4.13",
+    "lemak": "13.3"
+  },
+  "bahan": [
+    {
+      "nama": "Ayam Cincang",
+      "jumlah": "30 gr"
+    },
+    {
+      "nama": "Telur Ayam",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Wortel Parut",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Tahu Putih",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "1/2 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1/2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Campur telur, ayam cincang, wortel parut, tahu putih. Aduk sampai tahu lumat dan tercampur dengan bahan lain.",
+        "Potong-potong daun bawang, campurkan ke adonan.",
+        "Tambahkan BUMBOO Ati Ayam Bubuk dan BUMBOO Kaldu Ayam.",
+        "Pindahkan adonan telur ke wadah tahan panas.",
+        "Kukus selama kurang lebih 15 menit hingga matang."
+      ]
+    }
+  ],
+  "foto": "steamed-chicken-with-egg.jpg"
+}
