@@ -1,0 +1,54 @@
+{
+  "nama": "Macaroni Chicken Balls",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "gandum"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 243,
+    "protein": 7.4,
+    "karbohidrat": 25.8,
+    "lemak": 9.9
+  },
+  "bahan": [
+    {
+      "nama": "Daging Ayam",
+      "jumlah": "60 gr"
+    },
+    {
+      "nama": "Pasta Makaroni",
+      "jumlah": "60 gr"
+    },
+    {
+      "nama": "Wortel Parut",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "BUMBOO Abon Sapi",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Rebus dan Goreng",
+      "langkah": [
+        "Rebus pasta makaroni, sisihkan.",
+        "Di mangkuk terpisah, masukkan daging ayam, bawang putih, wortel, BUMBOO Kaldu Ayam, dan BUMBOO Abon Sapi. Aduk rata.",
+        "Tambahkan pasta makaroni, aduk kembali.",
+        "Bentuk adonan bulat-bulat, goreng dengan api kecil hingga berwarna cokelat keemasan. Angkat dan tiriskan.",
+        "Macaroni Chicken Balls siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "macaroni-chicken-balls.jpg"
+}

@@ -1,0 +1,61 @@
+{
+  "nama": "Creamy Garlic Butter Shrimp Spinach",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "udang",
+    "susu",
+    "ikan"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 224,
+    "protein": 5.4,
+    "karbohidrat": 6.3,
+    "lemak": 16.45
+  },
+  "bahan": [
+    {
+      "nama": "Udang Kupas",
+      "jumlah": "40 gr"
+    },
+    {
+      "nama": "Cooking Cream",
+      "jumlah": "50 ml"
+    },
+    {
+      "nama": "Bayam",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Teri Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis",
+      "langkah": [
+        "Marinasi udang kupas dengan BUMBOO Teri Bubuk, diamkan sekitar 15 menit.",
+        "Panaskan wajan dengan api kecil, masukkan BUMBOO Canola Oil lalu tumis udang yang sudah dimarinasi sampai matang.",
+        "Masukkan bawang putih cincang, angkat lalu sisihkan.",
+        "Masukkan kembali BUMBOO Canola Oil, BUMBOO Teri Bubuk, BUMBOO Ati Ayam, bawang putih cincang. Tumis sebentar, lalu masukkan kembali cooking cream, bayam, dan BUMBOO Keju Bubuk. Tumis sampai agak mengental.",
+        "Tata udang di piring lalu tuangkan kuah krim bayam.",
+        "Creamy Garlic Butter Shrimp Spinach siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "creamy-garlic-butter-shrimp-spinach.jpg"
+}

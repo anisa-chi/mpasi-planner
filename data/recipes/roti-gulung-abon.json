@@ -1,0 +1,65 @@
+{
+  "nama": "Roti Gulung Abon",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "gandum",
+    "telur",
+    "susu",
+    "wijen"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 499.5,
+    "protein": 5.6,
+    "karbohidrat": 58.05,
+    "lemak": 25.65
+  },
+  "bahan": [
+    {
+      "nama": "Roti Tawar",
+      "jumlah": "2 lembar"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Mayones",
+      "jumlah": "6 sdm"
+    },
+    {
+      "nama": "Susu Kental Manis",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Margarin",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Daun Bawang",
+      "jumlah": "Secukupnya"
+    },
+    {
+      "nama": "Wijen Putih",
+      "jumlah": "Secukupnya"
+    },
+    {
+      "nama": "BUMBOO Abon Ayam",
+      "jumlah": "2 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Masak Teflon dan Gulung",
+      "langkah": [
+        "Lelehkan margarin di teflon dengan api kecil.",
+        "Kocok telur dan oleskan di atas roti. Lalu taburi dengan daun bawang dan wijen putih. Masak sebentar hingga bagian bawah kecokelatan. Pastikan tidak terlalu kering agar mudah digulung.",
+        "Bagian roti tanpa telur, diolesi dengan campuran mayones dan susu kental manis. Lalu taburi dengan BUMBOO Abon Ayam.",
+        "Gulung roti dan potong 3 bagian. Lapisi kedua ujung roti dengan mayones dan balur dengan BUMBOO Abon Ayam.",
+        "Roti Gulung Abon siap disajikan."
+      ]
+    }
+  ],
+  "foto": "roti-gulung-abon.jpg"
+}

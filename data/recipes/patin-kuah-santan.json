@@ -1,0 +1,71 @@
+{
+  "nama": "Patin Kuah Santan",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "ikan"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 405,
+    "protein": 5.4,
+    "karbohidrat": 19.35,
+    "lemak": 30.6
+  },
+  "bahan": [
+    {
+      "nama": "Ikan Patin Fillet",
+      "jumlah": "85 gr"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "300 ml"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Bawang Merah",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Kunyit Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Gula Pasir",
+      "jumlah": "1/2 sdt"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Teri Bubuk",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Sapi",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Rebus",
+      "langkah": [
+        "Panaskan BUMBOO Canola Oil, tumis bawang putih dan bawang merah hingga wangi.",
+        "Masukkan kunyit bubuk dan santan.",
+        "Masukkan ikan patin fillet dan wortel.",
+        "Tambahkan gula, BUMBOO Teri Bubuk, dan BUMBOO Kaldu Sapi.",
+        "Masak hingga ikan patin matang dan wortel empuk.",
+        "Patin Kuah Santan siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "patin-kuah-santan.jpg"
+}

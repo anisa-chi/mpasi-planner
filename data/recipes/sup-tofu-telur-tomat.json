@@ -8,10 +8,10 @@
   ],
   "porsi": "1 porsi",
   "gizi": {
-    "kalori": "214.5 kkal",
-    "protein": "9.45 gram",
-    "karbohidrat": "6.49 gram",
-    "lemak": "22.05 gram"
+    "kalori": "214.5",
+    "protein": "9.45",
+    "karbohidrat": "6.49",
+    "lemak": "22.05"
   },
   "bahan": [
     {

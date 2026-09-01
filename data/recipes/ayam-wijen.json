@@ -1,0 +1,72 @@
+{
+  "nama": "Ayam Wijen",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "kedelai",
+    "susu",
+    "wijen"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 540,
+    "protein": 22.0,
+    "karbohidrat": 66.65,
+    "lemak": 28.8
+  },
+  "bahan": [
+    {
+      "nama": "Paha Ayam Fillet",
+      "jumlah": "225 gr"
+    },
+    {
+      "nama": "Salted Butter",
+      "jumlah": "7 gr"
+    },
+    {
+      "nama": "Tepung Maizena",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Minyak Wijen",
+      "jumlah": "1/2 sdm"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Brown Sugar",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Kecap Asin",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Chicken Fat Oil",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Marinasi dan Pan-Fry",
+      "langkah": [
+        "Marinasi paha ayam fillet dengan BUMBOO Kaldu Ayam, BUMBOO Ati Ayam Bubuk, bawang putih, brown sugar, kecap asin, dan tepung maizena. Diamkan selama 30-60 menit.",
+        "Panaskan BUMBOO Chicken Fat Oil, masak ayam bagian kulit lebih dulu.",
+        "Setelah satu sisi berubah warna, balik paha ayam. Masak sambil masukkan salted butter.",
+        "Setelah matang, siram minyak wijen di atas ayam.",
+        "Ayam Wijen siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "ayam-wijen.jpg"
+}

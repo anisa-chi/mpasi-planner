@@ -1,0 +1,60 @@
+{
+  "nama": "Bolu Kukus Pisang Meses",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "susu",
+    "gandum"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 240,
+    "protein": 3.9,
+    "karbohidrat": 52.5,
+    "lemak": 4.55
+  },
+  "bahan": [
+    {
+      "nama": "Pisang Ambon",
+      "jumlah": "3 buah"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Oat",
+      "jumlah": "5 sdm"
+    },
+    {
+      "nama": "Gula Pasir",
+      "jumlah": "1½ sdm"
+    },
+    {
+      "nama": "Meses Coklat",
+      "jumlah": "3 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Kocok telur. Di mangkuk terpisah lumatkan buah pisang.",
+        "Campurkan oat, gula pasir, telur dan pisang. Tambahkan BUMBOO Keju Bubuk, BUMBOO Canola Oil, dan meses cokelat. Aduk sampai merata.",
+        "Pindahkan adonan ke wadah tahan panas.",
+        "Kukus selama 15-20 menit sampai matang.",
+        "Bolu Kukus Pisang Meses siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "bolu-kukus-pisang-meses.jpg"
+}

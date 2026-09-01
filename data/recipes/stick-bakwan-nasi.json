@@ -1,0 +1,73 @@
+{
+  "nama": "Stick Bakwan Nasi",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "susu"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 240,
+    "protein": 4.95,
+    "karbohidrat": 22.05,
+    "lemak": 12.25
+  },
+  "bahan": [
+    {
+      "nama": "Daging Ayam Cincang",
+      "jumlah": "30 gr"
+    },
+    {
+      "nama": "Wortel Parut",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Nasi",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Tepung Beras",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Beef Fat Oil",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "Secukupnya untuk menggoreng"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Goreng",
+      "langkah": [
+        "Campur daging ayam, telur, nasi, tepung beras, bawang putih, BUMBOO Kaldu Ayam dan BUMBOO Beef Fat Oil.",
+        "Haluskan dengan chopper atau blender.",
+        "Tambahkan wortel parut dan BUMBOO Keju Bubuk ke adonan. Aduk hingga adonan tercampur rata.",
+        "Masukan adonan ke piping bag.",
+        "Panaskan BUMBOO Canola Oil, masukan adonan bakwan dalam bentuk memanjang.",
+        "Goreng hingga adonan matang berwarna cokelat keemasan.",
+        "Stick Bakwan Nasi siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "stick-bakwan-nasi.jpg"
+}

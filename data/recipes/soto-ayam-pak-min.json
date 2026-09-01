@@ -1,0 +1,74 @@
+{
+  "nama": "Soto Ayam Pak Min",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "udang"
+  ],
+  "porsi": "4 porsi",
+  "gizi": {
+    "kalori": 283.5,
+    "protein": 19.4,
+    "karbohidrat": 8.6,
+    "lemak": 12.15
+  },
+  "bahan": [
+    {
+      "nama": "Paha Ayam",
+      "jumlah": "300 gr"
+    },
+    {
+      "nama": "Ebi",
+      "jumlah": "40 gr"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "7 siung"
+    },
+    {
+      "nama": "Lada Putih",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Sereh",
+      "jumlah": "1 batang"
+    },
+    {
+      "nama": "Jahe",
+      "jumlah": "1 ruas"
+    },
+    {
+      "nama": "Kayu Manis",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Gula Pasir",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "500 ml"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Rebus",
+      "langkah": [
+        "Haluskan ebi dan bawang putih.",
+        "Panaskan BUMBOO Canola Oil, kemudian tumis ebi dan bawang putih hingga wangi.",
+        "Masukkan ayam dan air. Lalu tambahkan lada putih, gula pasir, sereh, jahe, kayu manis, dan BUMBOO Kaldu Jamur.",
+        "Masak ayam hingga matang.",
+        "Soto Ayam Pak Min siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "soto-ayam-pak-min.jpg"
+}

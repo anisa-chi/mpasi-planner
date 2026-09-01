@@ -1,0 +1,63 @@
+{
+  "nama": "Quiche",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 283.5,
+    "protein": 10.4,
+    "karbohidrat": 21.5,
+    "lemak": 9.9
+  },
+  "bahan": [
+    {
+      "nama": "Telur",
+      "jumlah": "3 butir"
+    },
+    {
+      "nama": "Kentang",
+      "jumlah": "60 gr"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "50 ml"
+    },
+    {
+      "nama": "Sosis",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Bawang Putih Bubuk",
+      "jumlah": "1/2 sdt"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "1/2 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1/2 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "2 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Panggang",
+      "langkah": [
+        "Kocok telur, tambahkan bawang putih bubuk, susu, BUMBOO Kaldu Ayam, dan BUMBOO Ati Ayam Bubuk. Aduk rata.",
+        "Potong sosis dan kentang kecil-kecil, masukkan ke cetakan.",
+        "Tuangkan adonan telur ke cetakan sampai 3/4 penuh.",
+        "Panggang dengan suhu 180°C selama 20-30 menit hingga matang.",
+        "Quiche siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "quiche.jpg"
+}

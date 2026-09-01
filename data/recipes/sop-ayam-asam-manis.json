@@ -1,0 +1,79 @@
+{
+  "nama": "Sop Ayam Asam Manis",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": 432,
+    "protein": 13.6,
+    "karbohidrat": 40.85,
+    "lemak": 19.8
+  },
+  "bahan": [
+    {
+      "nama": "Dada Ayam Fillet",
+      "jumlah": "50 gr"
+    },
+    {
+      "nama": "Kentang",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "20 gr"
+    },
+    {
+      "nama": "Tomat",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "500 ml"
+    },
+    {
+      "nama": "Jahe",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Sereh",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Bawang Merah",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Bawang Bombay",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "Saus Tomat",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "BUMBOO Beef Fat Oil",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Rebus",
+      "langkah": [
+        "Panaskan BUMBOO Beef Fat Oil, tumis bawang merah dan bawang bombay hingga harum.",
+        "Masukkan dada ayam fillet, tumis sampai ayam berubah warna.",
+        "Tambahkan kentang, wortel, dan air.",
+        "Masukkan sereh dan jahe.",
+        "Tambahkan BUMBOO Kaldu Jamur.",
+        "Masukkan potongan tomat dan saus tomat.",
+        "Tunggu hingga mendidih dan wortel empuk.",
+        "Sop Ayam Asam Manis siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "sop-ayam-asam-manis.jpg"
+}

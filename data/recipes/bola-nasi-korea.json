@@ -5,10 +5,10 @@
   "alergen": [],
   "porsi": "2 porsi",
   "gizi": {
-    "kalori": "248 kkal",
-    "protein": "7.05 gram",
-    "karbohidrat": "23.1 gram",
-    "lemak": "12.25 gram"
+    "kalori": "248",
+    "protein": "7.05",
+    "karbohidrat": "23.1",
+    "lemak": "12.25"
   },
   "bahan": [
     {

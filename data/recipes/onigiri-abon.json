@@ -1,0 +1,47 @@
+{
+  "nama": "Onigiri Abon",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": 310.5,
+    "protein": 4.2,
+    "karbohidrat": 45.15,
+    "lemak": 11.25
+  },
+  "bahan": [
+    {
+      "nama": "Nasi Putih",
+      "jumlah": "80 gr"
+    },
+    {
+      "nama": "Rumput Laut Khusus Onigiri",
+      "jumlah": "4 gr"
+    },
+    {
+      "nama": "Mayones",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Abon Ayam",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Cetak / Bentuk",
+      "langkah": [
+        "Basahi cetakan onigiri dengan air agar nasi tidak lengket.",
+        "Masukkan nasi ke dalam cetakan 1/2 bagian.",
+        "Olesi nasi dengan mayones, lalu masukkan BUMBOO Abon Ayam dan olesi dengan mayones kembali.",
+        "Tutup dengan nasi, padatkan, lalu tutup cetakan sambil ditekan.",
+        "Keluarkan nasi dari cetakan dan bungkus dengan rumput laut onigiri.",
+        "Onigiri Abon siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "onigiri-abon.jpg"
+}

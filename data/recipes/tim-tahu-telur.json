@@ -1,0 +1,59 @@
+{
+  "nama": "Tim Tahu Telur",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "kedelai",
+    "telur",
+    "ikan"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": 312,
+    "protein": 9.6,
+    "karbohidrat": 40.95,
+    "lemak": 11.55
+  },
+  "bahan": [
+    {
+      "nama": "Tahu",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Nasi",
+      "jumlah": "30 gr"
+    },
+    {
+      "nama": "Bawang Putih Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Teri Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Chicken Fat Oil",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Haluskan tahu, lalu campur dengan telur, wortel, dan nasi. Aduk rata.",
+        "Tambahkan BUMBOO Teri Bubuk, BUMBOO Chicken Fat Oil, dan bawang putih bubuk. Aduk kembali.",
+        "Pindahkan ke wadah tahan panas.",
+        "Kukus selama 10-15 menit hingga matang."
+      ]
+    }
+  ],
+  "foto": "tim-tahu-telur.jpg"
+}

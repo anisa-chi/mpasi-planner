@@ -1,0 +1,62 @@
+{
+  "nama": "Mapo Tofu",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "kedelai"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": 540,
+    "protein": 22.8,
+    "karbohidrat": 64.5,
+    "lemak": 26.55
+  },
+  "bahan": [
+    {
+      "nama": "Bawang Bombay",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "Daging Sapi Giling",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Tepung Maizena",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Tahu Putih",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Kecap Manis",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Buncis",
+      "jumlah": "15 gr"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Beef Fat Oil",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis",
+      "langkah": [
+        "Campurkan daging sapi dengan tepung maizena. Sisihkan.",
+        "Panaskan wajan dengan api kecil, tumis bawang bombay dengan BUMBOO Beef Fat Oil.",
+        "Masukkan daging sapi, tambahkan kecap manis, buncis, BUMBOO Ati Ayam, air matang, dan tahu putih.",
+        "Aduk lalu masak hingga matang.",
+        "Mapo Tofu siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "mapo-tofu.jpg"
+}

@@ -1,0 +1,78 @@
+{
+  "nama": "Pepes Hati Ayam",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur"
+  ],
+  "porsi": "4 porsi",
+  "gizi": {
+    "kalori": 202.5,
+    "protein": 12.8,
+    "karbohidrat": 10.75,
+    "lemak": 7.65
+  },
+  "bahan": [
+    {
+      "nama": "Hati Ayam",
+      "jumlah": "300 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "2 butir"
+    },
+    {
+      "nama": "Tomat",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "5 siung"
+    },
+    {
+      "nama": "Bawang Merah",
+      "jumlah": "3 siung"
+    },
+    {
+      "nama": "Kunyit",
+      "jumlah": "1/2 ruas"
+    },
+    {
+      "nama": "Jahe",
+      "jumlah": "1/2 ruas"
+    },
+    {
+      "nama": "Lengkuas",
+      "jumlah": "1/2 ruas"
+    },
+    {
+      "nama": "Sereh",
+      "jumlah": "1 batang"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "Secukupnya"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Panggang",
+      "langkah": [
+        "Haluskan bawang putih, bawang merah, kunyit, jahe, dan lengkuas.",
+        "Panaskan BUMBOO Olive Oil EVOO, tumis bumbu yang sudah dihaluskan. Tambahkan tomat, hati ayam, air, dan BUMBOO Kaldu Ayam. Masak hingga matang.",
+        "Pindahkan hati ayam ke wadah lain, masukkan 2 butir telur. Aduk rata.",
+        "Bungkus adonan dengan daun pisang, panggang di atas teflon hingga daun pisang layu.",
+        "Pepes Ati Ayam siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "pepes-hati-ayam.jpg"
+}

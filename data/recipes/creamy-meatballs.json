@@ -1,0 +1,80 @@
+{
+  "nama": "Creamy Meatballs",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur",
+    "gandum",
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 594,
+    "protein": 15.6,
+    "karbohidrat": 47.3,
+    "lemak": 29.25
+  },
+  "bahan": [
+    {
+      "nama": "Daging Sapi Giling",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Bawang Bombay",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "Telur Ayam Kampung",
+      "jumlah": "1 pcs"
+    },
+    {
+      "nama": "Tepung Roti",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Tepung Terigu",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "50 ml"
+    },
+    {
+      "nama": "Kentang",
+      "jumlah": "1 pcs"
+    },
+    {
+      "nama": "Bawang Putih Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Sapi",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Goreng dan Masak Saus",
+      "langkah": [
+        "Untuk Daging Meatballs: Tumis bawang bombay dengan BUMBOO Canola Oil di wajan hingga berubah warna. Sisihkan.",
+        "Siapkan mangkuk, masukkan daging sapi, telur, bawang bombay yang sudah ditumis, BUMBOO Keju Bubuk, tepung roti, dan susu UHT. Aduk rata, sisihkan.",
+        "Diamkan adonan daging di dalam kulkas sekitar 15 menit - 1 jam agar mudah dibentuk.",
+        "Setelah adonan memadat, buat adonan daging menjadi bentuk bulat-bulat.",
+        "Panaskan wajan dengan api kecil. Masukkan BUMBOO Canola Oil, goreng adonan daging yang sudah dibentuk sampai matang merata. Tiriskan.",
+        "Untuk Mashed Potato: Panaskan wajan dengan api kecil. Masukkan kentang kukus yang sudah dilumatkan, susu UHT, dan BUMBOO Keju Bubuk. Aduk perlahan hingga rata lalu sisihkan.",
+        "Untuk Saus: Siapkan wajan dengan api kecil. Masukkan tepung terigu, aduk dengan cepat. Tuang air, tambahkan BUMBOO Kaldu Sapi, bawang putih bubuk, dan susu UHT. Aduk kembali.",
+        "Siapkan piring berisi mashed potato, daging meatballs, dan saus.",
+        "Creamy Meatballs siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "creamy-meatballs.jpg"
+}

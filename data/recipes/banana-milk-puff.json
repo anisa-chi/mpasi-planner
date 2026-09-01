@@ -1,0 +1,61 @@
+{
+  "nama": "Banana Milk Puff",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "gandum",
+    "susu",
+    "telur"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": 472.5,
+    "protein": 6.4,
+    "karbohidrat": 124.7,
+    "lemak": 12.15
+  },
+  "bahan": [
+    {
+      "nama": "Pisang Ambon",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Puff Pastry",
+      "jumlah": "20 gr"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "75 ml"
+    },
+    {
+      "nama": "Tepung Maizena",
+      "jumlah": "1/2 sdm"
+    },
+    {
+      "nama": "Kuning Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Vanili Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1/2 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Panggang",
+      "langkah": [
+        "Kocok kuning telur, vanili bubuk, dan tepung maizena hingga tercampur rata.",
+        "Tuangkan susu UHT dan BUMBOO Keju Bubuk, aduk rata.",
+        "Potong puff pastry, tata di cetakan.",
+        "Letakkan pisang di atas puff pastry, kemudian tuang adonan susu.",
+        "Panggang dengan suhu 180°C selama 10 menit.",
+        "Banana Milk Puff siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "banana-milk-puff.jpg"
+}

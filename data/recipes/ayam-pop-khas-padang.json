@@ -1,0 +1,65 @@
+{
+  "nama": "Ayam Pop Khas Padang",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 351,
+    "protein": 14.6,
+    "karbohidrat": 25.8,
+    "lemak": 16.2
+  },
+  "bahan": [
+    {
+      "nama": "Paha Ayam",
+      "jumlah": "5 buah"
+    },
+    {
+      "nama": "Air Kelapa",
+      "jumlah": "200 ml"
+    },
+    {
+      "nama": "Bawang Merah",
+      "jumlah": "5 siung"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "3 siung"
+    },
+    {
+      "nama": "Sereh",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Lengkuas",
+      "jumlah": "1 ruas"
+    },
+    {
+      "nama": "Jahe",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Rebus",
+      "langkah": [
+        "Panaskan BUMBOO Canola Oil, lalu tumis bawang merah, bawang putih, sereh, lengkuas, dan jahe hingga wangi.",
+        "Masukkan paha ayam, aduk sebentar.",
+        "Tuang air kelapa, kemudian tambahkan BUMBOO Kaldu Ayam.",
+        "Masak hingga air menyusut.",
+        "Setelah matang, bisa hidangkan dengan digoreng lebih dulu.",
+        "Ayam Pop Khas Padang siap disajikan."
+      ]
+    }
+  ],
+  "foto": "ayam-pop-khas-padang.jpg"
+}

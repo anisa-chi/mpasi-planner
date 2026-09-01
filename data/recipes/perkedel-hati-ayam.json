@@ -1,0 +1,68 @@
+{
+  "nama": "Perkedel Hati Ayam",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 328,
+    "protein": 6.3,
+    "karbohidrat": 27.3,
+    "lemak": 19.95
+  },
+  "bahan": [
+    {
+      "nama": "Kentang",
+      "jumlah": "180 gr"
+    },
+    {
+      "nama": "Hati Ayam Segar",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "Daging Cincang",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Bawang Putih Cincang",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Bawang Merah Cincang",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "Secukupnya untuk menggoreng"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Goreng",
+      "langkah": [
+        "Panaskan BUMBOO Olive Oil (EVOO), tumis bawang putih, bawang merah, dan daging cincang hingga matang.",
+        "Campur kentang yang sudah dihaluskan dengan hati ayam rebus, lumatkan sampai hati ayam tercampur dengan kentang.",
+        "Masukkan tumisan daging ke adonan kentang, tambahkan BUMBOO Kaldu Jamur, aduk rata.",
+        "Bentuk adonan sesuai selera.",
+        "Kocok telur, lumuri adonan dengan kocokan telur.",
+        "Panaskan BUMBOO Canola Oil, goreng perkedel hingga berwarna cokelat keemasan.",
+        "Perkedel Hati Ayam siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "perkedel-hati-ayam.jpg"
+}

@@ -1,0 +1,59 @@
+{
+  "nama": "Bola Kentang Telur Puyuh",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 297,
+    "protein": 3.0,
+    "karbohidrat": 131.15,
+    "lemak": 15.75
+  },
+  "bahan": [
+    {
+      "nama": "Kentang Besar",
+      "jumlah": "2 buah"
+    },
+    {
+      "nama": "Telur Puyuh",
+      "jumlah": "7 butir"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Tepung Maizena",
+      "jumlah": "3 sdm"
+    },
+    {
+      "nama": "Daun Bawang",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Sapi",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "Secukupnya untuk menggoreng"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Goreng",
+      "langkah": [
+        "Rebus kentang hingga matang dan lumatkan.",
+        "Tambahkan tepung maizena, bawang putih, daun bawang dan BUMBOO Kaldu Sapi.",
+        "Aduk dan uleni hingga merata.",
+        "Ambil sedikit adonan, pipihkan dan bungkus telur puyuh di dalamnya.",
+        "Goreng dengan BUMBOO Canola Oil hingga berwarna cokelat keemasan.",
+        "Bola Kentang Telur Puyuh siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "bola-kentang-telur-puyuh.jpg"
+}

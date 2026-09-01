@@ -1,0 +1,63 @@
+{
+  "nama": "Orak Arik Telur Tomat",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur",
+    "kedelai"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": 232,
+    "protein": 7.5,
+    "karbohidrat": 7.35,
+    "lemak": 16.1
+  },
+  "bahan": [
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Tomat",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Tahu Putih",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "Bawang Bombay",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Sapi",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis",
+      "langkah": [
+        "Panaskan BUMBOO Canola Oil, tumis bawang bombay dan wortel, tambahkan air. Masak hingga wortel empuk.",
+        "Masukkan tomat dan tahu, lumatkan sambil dimasak.",
+        "Kocok telur, tuang ke campuran tomat dan tahu. Masak hingga telur matang dan air menyusut.",
+        "Tambahkan BUMBOO Olive Oil (EVOO) sebagai topping.",
+        "Orak Arik Telur Tomat siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "orak-arik-telur-tomat.jpg"
+}

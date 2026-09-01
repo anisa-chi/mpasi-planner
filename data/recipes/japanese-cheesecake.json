@@ -1,0 +1,71 @@
+{
+  "nama": "Japanese Cheesecake",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "gandum",
+    "susu",
+    "telur"
+  ],
+  "porsi": "8 porsi",
+  "gizi": {
+    "kalori": 310.5,
+    "protein": 3.8,
+    "karbohidrat": 36.55,
+    "lemak": 10.8
+  },
+  "bahan": [
+    {
+      "nama": "Tepung Terigu",
+      "jumlah": "70 gr"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "180 gr"
+    },
+    {
+      "nama": "Kuning Telur",
+      "jumlah": "4 butir"
+    },
+    {
+      "nama": "Putih Telur",
+      "jumlah": "4 butir"
+    },
+    {
+      "nama": "Gula Pasir",
+      "jumlah": "80 gr"
+    },
+    {
+      "nama": "Jus Lemon",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Pasta Vanila",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Unsalted Butter",
+      "jumlah": "70 gr"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "100 gr"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Panggang Oven",
+      "langkah": [
+        "Masukkan BUMBOO Keju Bubuk, susu UHT, dan unsalted butter di sauce pan. Masak hingga butter meleleh. Diamkan sebentar.",
+        "Di mangkuk terpisah, kocok kuning telur bersama pasta vanila. Tambahkan campuran yang sudah dimasak sebelumnya lalu tepung terigu. Aduk rata.",
+        "Di mangkuk lain, kocok putih telur dengan jus lemon, tambahkan gula pasir sedikit demi sedikit. Kocok adonan hingga mengembang membentuk soft peak (puncak adonan terlihat lunak).",
+        "Masukkan sedikit demi sedikit adonan putih telur ke adonan kuning telur, aduk perlahan sampai tercampur rata.",
+        "Masukkan adonan ke loyang, panggang dengan api atas bawah (api atas 150°C, api bawah 125°C) selama 20 menit. Keluarkan dari oven.",
+        "Panggang kembali dengan api atas bawah di suhu 150°C selama 10 detik. Keluarkan dari oven.",
+        "Panggang kembali dengan api bawah di suhu 100°C selama 60 menit.",
+        "Japanese Cheesecake siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "japanese-cheesecake.jpg"
+}

@@ -1,0 +1,66 @@
+{
+  "nama": "Misoa Santan",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "gandum",
+    "telur",
+    "ikan"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 344,
+    "protein": 6.0,
+    "karbohidrat": 33.6,
+    "lemak": 19.95
+  },
+  "bahan": [
+    {
+      "nama": "Misoa",
+      "jumlah": "50 gr"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "150 ml"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Jahe",
+      "jumlah": "1 ruas"
+    },
+    {
+      "nama": "BUMBOO Teri Bubuk",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Rebus",
+      "langkah": [
+        "Panaskan BUMBOO Canola Oil. Tumis bawang putih dan jahe, tunggu hingga wangi.",
+        "Tambahkan santan.",
+        "Tambahkan BUMBOO Teri Bubuk dan BUMBOO Kaldu Jamur, masak hingga mendidih.",
+        "Masukkan telur, aduk sebentar.",
+        "Pisahkan jahe, kemudian masukkan misoa.",
+        "Masak hingga misoa matang.",
+        "Misoa Santan siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "misoa-santan.jpg"
+}

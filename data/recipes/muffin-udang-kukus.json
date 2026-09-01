@@ -1,0 +1,65 @@
+{
+  "nama": "Muffin Udang Kukus",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur",
+    "udang"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 136,
+    "protein": 6.75,
+    "karbohidrat": 19.95,
+    "lemak": 3.15
+  },
+  "bahan": [
+    {
+      "nama": "Telur Puyuh",
+      "jumlah": "5 butir"
+    },
+    {
+      "nama": "Udang Potong",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Kentang",
+      "jumlah": "50 gr"
+    },
+    {
+      "nama": "Jagung Pipil",
+      "jumlah": "50 gr"
+    },
+    {
+      "nama": "Tomat Potong",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Wortel Potong",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Sapi",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Kukus kentang dan jagung pipil.",
+        "Siapkan mangkuk berisi telur puyuh dan dikocok sampai merata.",
+        "Masukkan kentang dan jagung kukus bersama dengan telur puyuh.",
+        "Campurkan udang, wortel, tomat, dan daun bawang.",
+        "Masukkan BUMBOO Ati Ayam Bubuk dan BUMBOO Kaldu Jamur lalu aduk sampai merata.",
+        "Siapkan tempat cetakan untuk menaruh adonan lalu kukus selama 20 menit.",
+        "Muffin Udang kukus siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "muffin-udang-kukus.jpg"
+}

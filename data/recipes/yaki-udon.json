@@ -1,0 +1,82 @@
+{
+  "nama": "Yaki Udon",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "gandum",
+    "telur",
+    "kedelai"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 337.5,
+    "protein": 8.4,
+    "karbohidrat": 47.3,
+    "lemak": 11.7
+  },
+  "bahan": [
+    {
+      "nama": "Udon",
+      "jumlah": "175 gr"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Bawang Merah",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Bawang Bombay",
+      "jumlah": "1/4 buah"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Bakso Ayam",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Jamur Kancing",
+      "jumlah": "3 potong"
+    },
+    {
+      "nama": "Kecap Asin",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Kecap Manis",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis",
+      "langkah": [
+        "Rebus udon, angkat dan tiriskan.",
+        "Panaskan BUMBOO Olive Oil (EVOO), lalu tumis bawang putih, bawang merah, dan bawang bombay.",
+        "Tambahkan telur, kemudian orak-arik.",
+        "Masukkan wortel, jamur kancing, bakso ayam, dan udon yang sudah direbus.",
+        "Tambahkan kecap asin dan kecap manis, serta BUMBOO Kaldu Ayam.",
+        "Aduk rata dan masak hingga matang.",
+        "Yaki Udon siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "yaki-udon.jpg"
+}

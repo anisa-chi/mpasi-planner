@@ -1,0 +1,66 @@
+{
+  "nama": "Fish Fingers",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "ikan",
+    "telur",
+    "gandum",
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 248,
+    "protein": 13.05,
+    "karbohidrat": 25.2,
+    "lemak": 8.05
+  },
+  "bahan": [
+    {
+      "nama": "Fillet Ikan Kakap Merah",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Tepung Terigu",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Tepung Roti",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Bawang Putih Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "Secukupnya untuk menggoreng"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Goreng",
+      "langkah": [
+        "Campur BUMBOO Kaldu Jamur, bawang putih bubuk, dan tepung terigu. Aduk rata. Balurkan ke potongan ikan.",
+        "Siapkan tepung roti dan campurkan dengan BUMBOO Keju Bubuk.",
+        "Di mangkuk terpisah, kocok telur.",
+        "Lumuri potongan ikan dengan telur dan campuran tepung roti.",
+        "Panaskan BUMBOO Canola Oil, goreng fish fingers hingga berwarna cokelat keemasan.",
+        "Fish Fingers siap disajikan."
+      ]
+    }
+  ],
+  "foto": "fish-fingers.jpg"
+}

@@ -1,0 +1,72 @@
+{
+  "nama": "Nori Tofu Chicken Shimeji",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "kedelai",
+    "gandum"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 360,
+    "protein": 9.9,
+    "karbohidrat": 68.25,
+    "lemak": 22.75
+  },
+  "bahan": [
+    {
+      "nama": "Tahu",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Nori/Rumput Laut Jepang",
+      "jumlah": "1 pcs"
+    },
+    {
+      "nama": "Tepung Terigu",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Bawang Putih Cincang",
+      "jumlah": "2 siung"
+    },
+    {
+      "nama": "Tepung Maizena",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Daging Ayam",
+      "jumlah": "60 gr"
+    },
+    {
+      "nama": "Minyak Wijen",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Jamur Shimeji",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "4 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1/2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Goreng dan Tumis",
+      "langkah": [
+        "Tahu Putih Nori: Siapkan tahu putih yang sudah dipotong kotak, lalu tempelkan nori di bagian atas tahu putih.",
+        "Lapisi tahu nori dengan tepung terigu sampai merata.",
+        "Panaskan wajan dengan api kecil, masukkan BUMBOO Canola Oil dan goreng tahu nori yang sudah dilapisi tepung terigu sampai matang, lalu tiriskan.",
+        "Saus: Panaskan wajan kembali dengan api kecil, masukkan BUMBOO Canola Oil, lalu tumis bawang putih, ayam, jamur shimeji, dan minyak wijen sampai merata.",
+        "Masukkan air, BUMBOO Kaldu Ayam, dan tepung maizena yang sudah dicampurkan air, aduk hingga merata dan mengental.",
+        "Siapkan tahu nori di piring. Siram dengan saus dan hidangkan."
+      ]
+    }
+  ],
+  "foto": "nori-tofu-chicken-shimeji.jpg"
+}

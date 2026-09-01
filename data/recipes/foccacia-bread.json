@@ -1,0 +1,58 @@
+{
+  "nama": "Foccacia Bread",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "gandum"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 364.5,
+    "protein": 5.4,
+    "karbohidrat": 70.95,
+    "lemak": 7.65
+  },
+  "bahan": [
+    {
+      "nama": "Tepung Terigu Protein Sedang",
+      "jumlah": "225 gr"
+    },
+    {
+      "nama": "Ragi Instan",
+      "jumlah": "2 gr"
+    },
+    {
+      "nama": "Garam",
+      "jumlah": "2 gr"
+    },
+    {
+      "nama": "Air",
+      "jumlah": "210 ml"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "3 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Panggang Oven",
+      "langkah": [
+        "Campur tepung terigu, ragi, garam, dan air. Aduk dan uleni adonan hingga tercampur rata.",
+        "Tutup adonan, tunggu 30-40 menit hingga mengembang.",
+        "Lipat sisi adonan ke tengah, tunggu kembali 30-40 menit hingga mengembang. Ulangi sebanyak 3 kali.",
+        "Siapkan loyang, oles dengan BUMBOO Canola Oil.",
+        "Pindahkan adonan ke loyang, tunggu kembali 60 menit hingga mengembang.",
+        "Tuangkan BUMBOO Olive Oil (EVOO) di atas adonan, tekan-tekan adonan dengan jari.",
+        "Tambahkan topping sesuai selera.",
+        "Panggang di oven dengan suhu 220°C selama 15-20 menit.",
+        "Foccacia Bread siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "foccacia-bread.jpg"
+}

@@ -1,0 +1,50 @@
+{
+  "nama": "Potato Waffle",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "telur"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": 240,
+    "protein": 11.4,
+    "karbohidrat": 31.5,
+    "lemak": 6.3
+  },
+  "bahan": [
+    {
+      "nama": "Kentang",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Hati Ayam",
+      "jumlah": "1 pcs"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Brokoli",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Panggang Cetakan Waffle",
+      "langkah": [
+        "Campur kentang dengan hati ayam dan telur, lumatkan hingga tercampur rata.",
+        "Tambahkan brokoli ke adonan, aduk kembali.",
+        "Tambahkan BUMBOO Kaldu Ayam, aduk sampai adonan tercampur rata.",
+        "Panaskan cetakan waffle, masak adonan sampai matang cokelat keemasan.",
+        "Potato Waffle siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "potato-waffle.jpg"
+}

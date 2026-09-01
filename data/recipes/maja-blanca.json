@@ -1,0 +1,54 @@
+{
+  "nama": "Maja Blanca",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "susu"
+  ],
+  "porsi": "4 porsi",
+  "gizi": {
+    "kalori": 312,
+    "protein": 3.9,
+    "karbohidrat": 36.75,
+    "lemak": 15.4
+  },
+  "bahan": [
+    {
+      "nama": "Santan",
+      "jumlah": "250 ml"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "100 ml"
+    },
+    {
+      "nama": "Gula Aren",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Jagung Pipil",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Tepung Maizena",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Masak Kompor",
+      "langkah": [
+        "Panaskan wajan dengan api kecil. Masukkan santan, susu UHT, jagung pipil, dan gula aren sambil diaduk merata.",
+        "Masukkan BUMBOO Keju Bubuk dan tepung maizena yang sudah dilarutkan dengan air, aduk perlahan sampai mengental.",
+        "Tuang ke wadah anti panas yang dilapisi daun pisang.",
+        "Taburi kembali BUMBOO Keju Bubuk sebagai topping.",
+        "Maja Blanca siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "maja-blanca.jpg"
+}

@@ -1,0 +1,71 @@
+{
+  "nama": "Penne Spinach",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "gandum",
+    "susu",
+    "telur"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 472.5,
+    "protein": 7.4,
+    "karbohidrat": 49.45,
+    "lemak": 20.7
+  },
+  "bahan": [
+    {
+      "nama": "Penne Pasta",
+      "jumlah": "60 gr"
+    },
+    {
+      "nama": "Bayam",
+      "jumlah": "15 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "125 ml"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "2 siung"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "2 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Rebus dan Tumis",
+      "langkah": [
+        "Rebus penne pasta hingga matang, sisihkan.",
+        "Blender bayam dengan susu UHT.",
+        "Panaskan BUMBOO Canola Oil, tumis bawang putih hingga wangi.",
+        "Tambahkan penne pasta dan saus bayam.",
+        "Tambahkan telur, BUMBOO Kaldu Jamur dan BUMBOO Ati Ayam Bubuk. Aduk merata.",
+        "Tambahkan BUMBOO Keju Bubuk, aduk kembali.",
+        "Masak hingga matang.",
+        "Penne Spinach siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "penne-spinach.jpg"
+}

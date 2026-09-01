@@ -1,0 +1,64 @@
+{
+  "nama": "Tofu Pasta",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "gandum",
+    "kedelai",
+    "susu"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": 368,
+    "protein": 6.15,
+    "karbohidrat": 37.8,
+    "lemak": 16.8
+  },
+  "bahan": [
+    {
+      "nama": "Pasta Makaroni",
+      "jumlah": "30 gr"
+    },
+    {
+      "nama": "Tahu",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Tomat Cherry",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Susu",
+      "jumlah": "30 ml"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Panggang",
+      "langkah": [
+        "Blender tahu dan susu.",
+        "Rebus pasta makaroni hingga matang, sisihkan. Simpan sedikit air.",
+        "Panaskan BUMBOO Olive Oil (EVOO), tumis bawang putih hingga wangi.",
+        "Masukkan tomat cherry dan air pasta.",
+        "Tambahkan blenderan tahu dan susu, kemudian masukkan pasta makaroni.",
+        "Taburkan BUMBOO Keju Bubuk atau tambahkan keju cheddar.",
+        "Pindahkan pasta makaroni ke wadah tahan panas.",
+        "Panggang di suhu 170°C selama 5-7 menit.",
+        "Tofu Pasta siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "tofu-pasta.jpg"
+}

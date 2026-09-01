@@ -1,0 +1,60 @@
+{
+  "nama": "Omelette Pasta",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "gandum",
+    "telur",
+    "ikan"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": 384,
+    "protein": 9.15,
+    "karbohidrat": 37.8,
+    "lemak": 19.6
+  },
+  "bahan": [
+    {
+      "nama": "Pasta Fusili",
+      "jumlah": "30 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Daun Bawang",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1/2 sdt"
+    },
+    {
+      "nama": "BUMBOO Teri Bubuk",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Chicken Fat Oil",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Masak",
+      "langkah": [
+        "Panaskan BUMBOO Chicken Fat Oil, tumis bawang putih hingga wangi.",
+        "Masukkan pasta, tambahkan BUMBOO Kaldu Ayam dan BUMBOO Teri Bubuk. Aduk hingga tercampur rata, angkat dan tiriskan.",
+        "Kocok telur, tambahkan daun bawang. Campur dengan pasta yang sudah ditumis.",
+        "Masak adonan hingga matang.",
+        "Omelette Pasta siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "omelette-pasta.jpg"
+}

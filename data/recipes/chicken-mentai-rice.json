@@ -1,0 +1,54 @@
+{
+  "nama": "Chicken Mentai Rice",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": 499.5,
+    "protein": 12.0,
+    "karbohidrat": 43.0,
+    "lemak": 25.2
+  },
+  "bahan": [
+    {
+      "nama": "Nasi",
+      "jumlah": "4 sdm"
+    },
+    {
+      "nama": "Mayones",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Ayam Suwir",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Kuning Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Abon Ayam",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Panggang",
+      "langkah": [
+        "Masukkan nasi ke dalam mangkuk. Campurkan kuning telur, BUMBOO Olive Oil (EVOO), dan BUMBOO Abon Ayam. Aduk rata.",
+        "Masukkan campuran nasi yang sudah diaduk ke wadah tahan panas, lalu padatkan.",
+        "Untuk topping, campurkan mayones dan ayam suwir. Aduk rata.",
+        "Tuang topping ke atas nasi tadi dan panggang selama 20 menit dengan suhu 150°C.",
+        "Chicken Mentai Rice siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "chicken-mentai-rice.jpg"
+}

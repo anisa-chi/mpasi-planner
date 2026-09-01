@@ -1,0 +1,69 @@
+{
+  "nama": "Sup Cream Ayam Jagung",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 378,
+    "protein": 14.6,
+    "karbohidrat": 27.95,
+    "lemak": 14.85
+  },
+  "bahan": [
+    {
+      "nama": "Daging Dada Ayam",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Jagung",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Bawang Bombay",
+      "jumlah": "1/2 sdm"
+    },
+    {
+      "nama": "Wortel Parut",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "150 ml"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Ati Ayam Bubuk",
+      "jumlah": "2 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Rebus dan Tumis",
+      "langkah": [
+        "Masukkan air untuk merebus dada ayam. Campurkan BUMBOO Kaldu Ayam, BUMBOO Ati Ayam. Tunggu 5 menit, lalu tiriskan dada ayam.",
+        "Pakai kembali air rebusan dada ayam untuk merebus jagung pipil.",
+        "Pisahkan sebagian jagung pipil untuk diblender dengan air rebusan dada ayam.",
+        "Potong dada ayam kecil-kecil.",
+        "Panaskan wajan dengan api kecil, masukkan BUMBOO Olive Oil (EVOO), bawang bombay, wortel, tumis sebentar sampai harum.",
+        "Masukkan jagung pipil yang sudah diblender. Campurkan kembali BUMBOO Kaldu Ayam, BUMBOO Ati Ayam, dan BUMBOO Keju Bubuk, dada ayam, jagung pipil utuh yang tersisa, dan susu UHT.",
+        "Aduk merata sampai mengental.",
+        "Sup Cream Ayam Jagung siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "sup-cream-ayam-jagung.jpg"
+}

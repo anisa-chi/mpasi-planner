@@ -1,0 +1,84 @@
+{
+  "nama": "Brokoli Udang Tofu Saus Tiram",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "kedelai",
+    "udang",
+    "molluscs"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 270,
+    "protein": 11.2,
+    "karbohidrat": 77.4,
+    "lemak": 9.9
+  },
+  "bahan": [
+    {
+      "nama": "Brokoli",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Tahu Jepang",
+      "jumlah": "50 gr"
+    },
+    {
+      "nama": "Udang Kupas",
+      "jumlah": "85 gr"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Bawang Bombay",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "Bawang Putih",
+      "jumlah": "1 siung"
+    },
+    {
+      "nama": "Saus Tiram",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Kecap Manis",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Tepung Maizena",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Olive Oil (EVOO)",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Goreng dan Tumis",
+      "langkah": [
+        "Potong tahu, lumuri dengan tepung maizena.",
+        "Goreng tahu hingga berwarna cokelat keemasan, angkat dan sisihkan.",
+        "Di wajan terpisah, panaskan BUMBOO Olive Oil (EVOO). Tumis bawang bombay dan bawang putih hingga harum.",
+        "Masukkan udang, tumis sampai berubah warna.",
+        "Masukkan wortel, masak sebentar dan tambahkan air.",
+        "Tambahkan brokoli, BUMBOO Kaldu Jamur, BUMBOO Kaldu Ayam, saus tiram, dan kecap manis. Aduk hingga tercampur rata.",
+        "Masukkan tahu yang sudah digoreng.",
+        "Tambahkan larutan tepung maizena, masak hingga kuah mengental.",
+        "Brokoli Udang Tofu Saus Tiram siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "brokoli-udang-tofu-saus-tiram.jpg"
+}

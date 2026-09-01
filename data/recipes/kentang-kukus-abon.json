@@ -1,0 +1,63 @@
+{
+  "nama": "Kentang Kukus Abon",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur",
+    "susu"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": 688.5,
+    "protein": 21.4,
+    "karbohidrat": 105.35,
+    "lemak": 17.55
+  },
+  "bahan": [
+    {
+      "nama": "Kentang",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Daging Ayam Giling",
+      "jumlah": "40 gr"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "BUMBOO Kaldu Ayam",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Abon Sapi",
+      "jumlah": "10 gr"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Siapkan mangkuk berisi kentang yang sudah dihaluskan, santan, air matang, ayam parut, wortel parut, dan BUMBOO Kaldu Ayam. Aduk rata.",
+        "Masukkan telur dan BUMBOO Keju Bubuk, aduk kembali hingga rata.",
+        "Pindahkan adonan ke dalam wadah tahan panas. Kukus hingga 25 menit.",
+        "Beri topping BUMBOO Abon Sapi di bagian atas kentang kukus yang sudah jadi.",
+        "Kentang Kukus Abon siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "kentang-kukus-abon.jpg"
+}

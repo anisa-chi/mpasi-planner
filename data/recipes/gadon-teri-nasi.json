@@ -1,0 +1,62 @@
+{
+  "nama": "Gadon Teri Nasi",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "ikan",
+    "telur"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 184,
+    "protein": 6.75,
+    "karbohidrat": 15.75,
+    "lemak": 9.45
+  },
+  "bahan": [
+    {
+      "nama": "Teri",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Nasi",
+      "jumlah": "50 gr"
+    },
+    {
+      "nama": "Tomat",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Daun Bawang",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "30 ml"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "BUMBOO Chicken Fat Oil",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Kukus",
+      "langkah": [
+        "Siapkan mangkuk besar lalu masukkan teri, nasi, telur, santan, tomat, daun bawang, BUMBOO Chicken Fat Oil dan BUMBOO Kaldu Jamur, aduk merata.",
+        "Siapkan daun pisang untuk membungkus adonan.",
+        "Kukus adonan selama 20 menit hingga matang.",
+        "Gadon Teri Nasi siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "gadon-teri-nasi.jpg"
+}

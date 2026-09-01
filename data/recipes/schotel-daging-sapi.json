@@ -1,0 +1,52 @@
+{
+  "nama": "Schotel Daging Sapi",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "telur"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 232,
+    "protein": 9.6,
+    "karbohidrat": 14.7,
+    "lemak": 12.95
+  },
+  "bahan": [
+    {
+      "nama": "Kentang",
+      "jumlah": "150 gr"
+    },
+    {
+      "nama": "Daging Sapi Cincang",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Wortel",
+      "jumlah": "2 sdm"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "BUMBOO Beef Fat Oil",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis dan Kukus",
+      "langkah": [
+        "Panaskan BUMBOO Beef Fat Oil, tumis daging sapi dan wortel. Tambahkan BUMBOO Kaldu Jamur, masak sampai matang.",
+        "Siapkan wadah tahan panas, campur kentang, tumisan daging, dan telur. Aduk rata.",
+        "Kukus selama 10-15 menit hingga matang."
+      ]
+    }
+  ],
+  "foto": "schotel-daging-sapi.jpg"
+}

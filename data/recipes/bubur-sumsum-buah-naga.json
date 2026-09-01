@@ -1,0 +1,53 @@
+{
+  "nama": "Bubur Sumsum Buah Naga",
+  "kategori_umur": "9-11bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "susu"
+  ],
+  "porsi": "3 porsi",
+  "gizi": {
+    "kalori": 296,
+    "protein": 4.65,
+    "karbohidrat": 27.3,
+    "lemak": 16.8
+  },
+  "bahan": [
+    {
+      "nama": "Buah Naga",
+      "jumlah": "1/2 buah"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "120 ml"
+    },
+    {
+      "nama": "Santan",
+      "jumlah": "200 ml"
+    },
+    {
+      "nama": "Tepung Beras",
+      "jumlah": "3 sdm"
+    },
+    {
+      "nama": "Gula Kelapa",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "1 sdm"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Masak Kompor",
+      "langkah": [
+        "Campur tepung beras, BUMBOO Keju Bubuk, gula kelapa, dan santan. Masak sampai mengental.",
+        "Haluskan buah naga, masukkan ke adonan bubur sumsum. Campur hingga rata, sisihkan.",
+        "Untuk kuah, campur susu UHT full cream dan BUMBOO Keju Bubuk, masak sampai mendidih.",
+        "Sajikan bubur sumsum dengan kuah."
+      ]
+    }
+  ],
+  "foto": "bubur-sumsum-buah-naga.jpg"
+}

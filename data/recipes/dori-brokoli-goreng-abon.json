@@ -1,0 +1,87 @@
+{
+  "nama": "Dori Brokoli Goreng Abon",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "ikan",
+    "gandum",
+    "telur"
+  ],
+  "porsi": "4 porsi",
+  "gizi": {
+    "kalori": 324,
+    "protein": 6.6,
+    "karbohidrat": 70.95,
+    "lemak": 13.5
+  },
+  "bahan": [
+    {
+      "nama": "Ikan Dori Fillet",
+      "jumlah": "500 gr"
+    },
+    {
+      "nama": "Tepung Terigu",
+      "jumlah": "8 sdm"
+    },
+    {
+      "nama": "Jeruk Nipis",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Tepung Maizena",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Garam",
+      "jumlah": "1 gr"
+    },
+    {
+      "nama": "Kuning Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Brokoli",
+      "jumlah": "100 gr"
+    },
+    {
+      "nama": "Mentega",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Daun Bawang",
+      "jumlah": "20 gr"
+    },
+    {
+      "nama": "BUMBOO Canola Oil",
+      "jumlah": "20 ml"
+    },
+    {
+      "nama": "BUMBOO Teri Bubuk",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Abon Ayam",
+      "jumlah": "10 gr"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Goreng dan Tumis",
+      "langkah": [
+        "Marinasi ikan dori fillet dengan jeruk nipis dan garam. Sisihkan.",
+        "Untuk adonan basah: Siapkan mangkuk, masukkan tepung terigu, tepung maizena, BUMBOO Kaldu Jamur, kuning telur, dan air. Aduk rata.",
+        "Untuk adonan kering: Campurkan tepung maizena dan BUMBOO Teri Bubuk.",
+        "Potong kotak-kotak ikan dori, lumuri dengan adonan kering lalu adonan basah.",
+        "Potong brokoli menjadi ukuran lebih kecil, lumuri dengan adonan kering.",
+        "Panaskan wajan dengan api sedang, masukkan BUMBOO Canola Oil secukupnya, lalu goreng ikan dori dan brokoli hingga matang dan berwarna cokelat keemasan. Tiriskan.",
+        "Di wajan berbeda, lelehkan mentega, lalu tumis daun bawang sebentar. Masukkan ikan dori dan brokoli yang sudah digoreng, campurkan dengan BUMBOO Abon Ayam. Aduk rata.",
+        "Dori Brokoli Goreng Abon siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "dori-brokoli-goreng-abon.jpg"
+}

@@ -1,0 +1,60 @@
+{
+  "nama": "Martabak Hati Ayam",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "kedelai",
+    "telur",
+    "gandum"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 256.5,
+    "protein": 6.2,
+    "karbohidrat": 19.35,
+    "lemak": 14.85
+  },
+  "bahan": [
+    {
+      "nama": "Hati Ayam",
+      "jumlah": "3 buah"
+    },
+    {
+      "nama": "Wortel Parut",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Tahu Putih",
+      "jumlah": "25 gr"
+    },
+    {
+      "nama": "Telur",
+      "jumlah": "1 butir"
+    },
+    {
+      "nama": "Daun Bawang",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "Kulit Lumpia",
+      "jumlah": "3-4 lembar"
+    },
+    {
+      "nama": "BUMBOO Chicken Fat Oil",
+      "jumlah": "Secukupnya untuk menggoreng"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Goreng",
+      "langkah": [
+        "Haluskan hati ayam dan tahu putih.",
+        "Masukkan telur, wortel, daun bawang, hati ayam, dan tahu putih yang sudah dihaluskan. Aduk merata.",
+        "Bungkus adonan dengan kulit lumpia.",
+        "Panaskan BUMBOO Chicken Fat Oil, goreng martabak hingga berwarna cokelat keemasan.",
+        "Martabak Hati Ayam siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "martabak-hati-ayam.jpg"
+}

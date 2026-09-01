@@ -1,0 +1,46 @@
+{
+  "nama": "Ice Lolly Pisang Jagung",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Snack",
+  "alergen": [
+    "susu"
+  ],
+  "porsi": "2 porsi",
+  "gizi": {
+    "kalori": 189,
+    "protein": 3.0,
+    "karbohidrat": 32.25,
+    "lemak": 3.15
+  },
+  "bahan": [
+    {
+      "nama": "Jagung Pipil",
+      "jumlah": "1/2 buah"
+    },
+    {
+      "nama": "Pisang Ambon",
+      "jumlah": "1 buah"
+    },
+    {
+      "nama": "Susu UHT",
+      "jumlah": "150 ml"
+    },
+    {
+      "nama": "BUMBOO Keju Bubuk",
+      "jumlah": "2 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Bekukan",
+      "langkah": [
+        "Masukkan jagung dan susu UHT ke dalam blender, haluskan lalu saring.",
+        "Lumatkan pisang.",
+        "Masukkan BUMBOO Keju Bubuk dan susu jagung yang sudah disaring, aduk merata.",
+        "Tuang ke cetakan es krim. Bekukan di freezer.",
+        "Ice Lolly Pisang Jagung siap disajikan."
+      ]
+    }
+  ],
+  "foto": "ice-lolly-pisang-jagung.jpg"
+}

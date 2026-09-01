@@ -1,0 +1,62 @@
+{
+  "nama": "Ayam Jamur",
+  "kategori_umur": "12-23bln",
+  "kategori_menu": "Menu Utama",
+  "alergen": [
+    "kedelai"
+  ],
+  "porsi": "1 porsi",
+  "gizi": {
+    "kalori": 297,
+    "protein": 8.2,
+    "karbohidrat": 19.35,
+    "lemak": 18.0
+  },
+  "bahan": [
+    {
+      "nama": "Daging Ayam",
+      "jumlah": "30 gr"
+    },
+    {
+      "nama": "Jamur Enoki",
+      "jumlah": "10 gr"
+    },
+    {
+      "nama": "Bawang Merah Cincang",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Bawang Putih Cincang",
+      "jumlah": "1 sdt"
+    },
+    {
+      "nama": "Saus Tiram",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "Daun Bawang",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Beef Fat Oil",
+      "jumlah": "1 sdm"
+    },
+    {
+      "nama": "BUMBOO Kaldu Jamur",
+      "jumlah": "1 sdt"
+    }
+  ],
+  "metode_masak": [
+    {
+      "nama": "Tumis",
+      "langkah": [
+        "Panaskan BUMBOO Beef Fat Oil, lalu tumis bawang merah, bawang putih hingga harum.",
+        "Masukkan daging ayam, dan jamur enoki.",
+        "Tambahkan sedikit air, saus tiram, BUMBOO Kaldu Jamur, lalu aduk merata.",
+        "Taburkan daun bawang.",
+        "Ayam Jamur siap dihidangkan."
+      ]
+    }
+  ],
+  "foto": "ayam-jamur.jpg"
+}
